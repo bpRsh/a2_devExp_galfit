@@ -1,0 +1,3926 @@
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal0.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  295.08,   306.00)   23.61     21.27    0.64   -77.82
+             (    0.17,     0.10)    0.01      0.26    0.00     0.52
+ Chi^2 = 2823.75738,  ndof = 6493
+ Chi^2/nu = 0.435
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal1.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  314.27,   306.99)   23.93     48.78    0.89   -34.97
+             (    0.45,     0.36)    0.08      2.75    0.03    10.21
+ Chi^2 = 1220.79431,  ndof = 3341
+ Chi^2/nu = 0.365
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal2.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.98,   311.54)   24.33     10.45    0.78    70.12
+             (    0.07,     0.06)    0.01      0.06    0.00     0.65
+ Chi^2 = 669.56361,  ndof = 5144
+ Chi^2/nu = 0.130
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal3.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  309.66,   304.00)   24.04      5.53    0.72   -30.87
+             (    0.05,     0.06)    0.01      0.06    0.01     1.00
+ Chi^2 = 810.57659,  ndof = 2589
+ Chi^2/nu = 0.313
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal4.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.64,   302.64)   24.45     14.60    0.43   -77.72
+             (    0.08,     0.04)    0.00      0.09    0.00     0.19
+ Chi^2 = 215.51876,  ndof = 3719
+ Chi^2/nu = 0.058
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal5.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  306.03,   296.51)   22.91      8.82    0.48    24.92
+             (    0.02,     0.04)    0.00      0.04    0.00     0.17
+ Chi^2 = 779.71102,  ndof = 6167
+ Chi^2/nu = 0.126
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal6.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.98,   302.96)   22.86     11.99    0.89   -75.86
+             (    0.06,     0.05)    0.00      0.05    0.00     0.97
+ Chi^2 = 2477.79745,  ndof = 12468
+ Chi^2/nu = 0.199
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal7.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  312.28,   295.95)   24.44     17.71    0.36    56.98
+             (    0.14,     0.09)    0.01      0.19    0.00     0.28
+ Chi^2 = 757.40406,  ndof = 3911
+ Chi^2/nu = 0.194
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal8.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.66,   299.46)   24.94     11.90    0.59    23.58
+             (    0.06,     0.09)    0.01      0.12    0.00     0.45
+ Chi^2 = 349.25073,  ndof = 2858
+ Chi^2/nu = 0.122
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal9.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  311.15,   313.60)   24.28     17.87    0.73   -14.37
+             (    0.08,     0.11)    0.00      0.12    0.00     0.61
+ Chi^2 = 817.23774,  ndof = 7687
+ Chi^2/nu = 0.106
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal10.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  311.45,   299.23)   24.01     20.59    0.63   -47.86
+             (    0.14,     0.15)    0.01      0.36    0.01     0.78
+ Chi^2 = 1748.66094,  ndof = 4059
+ Chi^2/nu = 0.431
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal11.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.46,   301.01)   24.81     16.80    0.22    68.80
+             (    0.09,     0.03)    0.00      0.10    0.00     0.08
+ Chi^2 = 82.88685,  ndof = 2571
+ Chi^2/nu = 0.032
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal12.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.84,   295.14)   24.65     46.85    0.67    65.88
+             (    1.15,     0.63)    0.17      6.33    0.05     6.15
+ Chi^2 = 866.65964,  ndof = 1759
+ Chi^2/nu = 0.493
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal13.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  293.83,   302.99)   25.82      4.88    0.62   -22.68
+             (    0.03,     0.05)    0.01      0.05    0.01     0.67
+ Chi^2 = 39.21157,  ndof = 941
+ Chi^2/nu = 0.042
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal14.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.85,   307.89)   25.15     13.58    0.29   -10.29
+             (    0.03,     0.11)    0.01      0.12    0.00     0.17
+ Chi^2 = 107.66655,  ndof = 2091
+ Chi^2/nu = 0.051
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal15.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.00,   299.84)   25.81     11.20    0.71    37.24
+             (    0.09,     0.12)    0.01      0.21    0.01     1.46
+ Chi^2 = 168.52015,  ndof = 1571
+ Chi^2/nu = 0.107
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal16.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.57,   298.42)   26.12      5.71    0.44    81.72
+             (    0.06,     0.03)    0.01      0.05    0.00     0.32
+ Chi^2 = 41.86474,  ndof = 951
+ Chi^2/nu = 0.044
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal17.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.25,   302.69)   25.88      9.36    0.52    71.40
+             (    0.14,     0.08)    0.01      0.19    0.01     0.84
+ Chi^2 = 117.08013,  ndof = 1163
+ Chi^2/nu = 0.101
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal18.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.46,   297.77)   25.22      4.90    0.65   -38.42
+             (    0.07,     0.07)    0.01      0.07    0.01     0.97
+ Chi^2 = 640.14123,  ndof = 1613
+ Chi^2/nu = 0.397
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal19.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  295.72,   296.26)   22.70      9.01    0.50    83.03
+             (    0.05,     0.02)    0.00      0.04    0.00     0.19
+ Chi^2 = 696.62768,  ndof = 5110
+ Chi^2/nu = 0.136
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal20.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.15,   301.40)   25.31      9.64    0.73    87.79
+             (    0.18,     0.13)    0.01      0.25    0.01     2.33
+ Chi^2 = 243.36285,  ndof = 1331
+ Chi^2/nu = 0.183
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal21.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.48,   300.62)   26.92      8.67    0.25   -59.51
+             (    0.13,     0.08)    0.01      0.18    0.00     0.34
+ Chi^2 = 92.40646,  ndof = 747
+ Chi^2/nu = 0.124
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal22.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.82,   297.53)   24.46      4.57    0.77   -58.98
+             (    0.03,     0.02)    0.01      0.02    0.00     0.69
+ Chi^2 = 279.46859,  ndof = 2272
+ Chi^2/nu = 0.123
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal23.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.42,   299.09)   25.72      1.96    0.77   -51.77
+             (    0.04,     0.03)    0.01      0.04    0.01     3.00
+ Chi^2 = 214.84168,  ndof = 680
+ Chi^2/nu = 0.316
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal24.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.51,   297.36)   25.50      6.49    0.57    86.57
+             (    0.04,     0.03)    0.00      0.04    0.00     0.32
+ Chi^2 = 60.14420,  ndof = 1433
+ Chi^2/nu = 0.042
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal25.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.13,   299.54)   24.84      0.85    0.92   -11.10
+             (    0.02,     0.02)    0.01      0.02    0.03    13.44
+ Chi^2 = 606.86954,  ndof = 956
+ Chi^2/nu = 0.635
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal26.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.94,   303.45)   24.80     10.42    0.86    38.79
+             (    0.09,     0.09)    0.01      0.15    0.01     2.97
+ Chi^2 = 417.80921,  ndof = 2145
+ Chi^2/nu = 0.195
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal27.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  297.64,   301.26)   25.46      5.30    0.91    69.08
+             (    0.04,     0.04)    0.01      0.05    0.01     3.45
+ Chi^2 = 43.30387,  ndof = 918
+ Chi^2/nu = 0.047
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal28.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  305.45,   301.47)   24.61      4.42    0.69    51.60
+             (    0.05,     0.04)    0.01      0.05    0.01     1.17
+ Chi^2 = 430.57801,  ndof = 1366
+ Chi^2/nu = 0.315
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal29.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.98,   303.24)   25.24      6.00    0.41    -9.46
+             (    0.03,     0.06)    0.01      0.05    0.00     0.31
+ Chi^2 = 103.64016,  ndof = 1273
+ Chi^2/nu = 0.081
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal30.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.67,   299.44)   25.52     11.07    0.33    37.91
+             (    0.09,     0.11)    0.01      0.17    0.00     0.36
+ Chi^2 = 170.17771,  ndof = 1277
+ Chi^2/nu = 0.133
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal31.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.41,   301.41)   26.65      2.69    0.58   -62.26
+             (    0.05,     0.03)    0.01      0.05    0.01     1.21
+ Chi^2 = 19.31345,  ndof = 363
+ Chi^2/nu = 0.053
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal32.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.98,   302.28)   26.35      5.83    0.48    88.62
+             (    0.10,     0.07)    0.02      0.11    0.01     0.77
+ Chi^2 = 102.82979,  ndof = 759
+ Chi^2/nu = 0.135
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal33.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.61,   296.70)   25.70      9.78    0.15   -29.22
+             (    0.08,     0.14)    0.01      0.18    0.00     0.22
+ Chi^2 = 53.95495,  ndof = 719
+ Chi^2/nu = 0.075
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal34.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.67,   298.90)   27.34      6.50    0.32    49.09
+             (    0.13,     0.11)    0.02      0.25    0.01     0.74
+ Chi^2 = 30.79656,  ndof = 297
+ Chi^2/nu = 0.104
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal35.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.89,   299.25)   26.55      3.36    0.90   -43.83
+             (    0.03,     0.03)    0.01      0.04    0.01     4.04
+ Chi^2 = 11.38626,  ndof = 385
+ Chi^2/nu = 0.030
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal36.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.67,   299.29)   25.51      2.16    0.42    84.43
+             (    0.03,     0.02)    0.01      0.02    0.01     0.54
+ Chi^2 = 32.81832,  ndof = 456
+ Chi^2/nu = 0.072
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal37.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.04,   297.31)   26.37      4.31    0.27    40.95
+             (    0.04,     0.04)    0.01      0.04    0.00     0.24
+ Chi^2 = 18.26430,  ndof = 448
+ Chi^2/nu = 0.041
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal38.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.05,   297.73)   27.48      4.79    0.69    32.83
+             (    0.07,     0.11)    0.02      0.18    0.02     2.71
+ Chi^2 = 29.59756,  ndof = 311
+ Chi^2/nu = 0.095
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal39.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.71,   301.79)   27.75      8.55    0.24   -75.84
+             (    0.14,     0.04)    0.02      0.27    0.00     0.41
+ Chi^2 = 16.10446,  ndof = 254
+ Chi^2/nu = 0.063
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal40.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.43,   296.46)   26.59      8.37    0.23    17.13
+             (    0.03,     0.09)    0.01      0.11    0.00     0.21
+ Chi^2 = 20.57886,  ndof = 567
+ Chi^2/nu = 0.036
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal41.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.69,   300.34)   26.13      7.59    0.51    21.46
+             (    0.09,     0.16)    0.02      0.23    0.01     1.29
+ Chi^2 = 87.33044,  ndof = 640
+ Chi^2/nu = 0.136
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal42.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.74,   299.86)   27.22      7.88    0.37    80.48
+             (    0.29,     0.12)    0.03      0.42    0.01     1.27
+ Chi^2 = 88.02044,  ndof = 455
+ Chi^2/nu = 0.193
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal43.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.91,   298.73)   24.76     *0.27*   0.86   -30.77
+             (    0.01,     0.01)    0.01     *0.01*   0.05    10.41
+ Chi^2 = 58.89086,  ndof = 301
+ Chi^2/nu = 0.196
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal44.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  305.56,   296.89)   26.56      9.64    0.17    69.32
+             (    0.16,     0.06)    0.01      0.23    0.00     0.27
+ Chi^2 = 42.79206,  ndof = 484
+ Chi^2/nu = 0.088
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal45.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  296.32,   297.76)   26.72      4.19    0.32   -50.74
+             (    0.08,     0.07)    0.02      0.10    0.01     0.73
+ Chi^2 = 38.06685,  ndof = 320
+ Chi^2/nu = 0.119
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal46.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.59,   299.86)   27.82      6.74    0.25    33.03
+             (    0.13,     0.19)    0.03      0.38    0.01     0.89
+ Chi^2 = 34.64567,  ndof = 203
+ Chi^2/nu = 0.171
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal47.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.86,   299.34)   25.85      2.79    0.41   -72.33
+             (    0.06,     0.03)    0.01      0.04    0.01     0.66
+ Chi^2 = 70.04704,  ndof = 486
+ Chi^2/nu = 0.144
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal48.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.62,   299.51)   26.95      4.49    0.50   -85.32
+             (    0.08,     0.05)    0.01      0.09    0.01     0.88
+ Chi^2 = 14.74095,  ndof = 310
+ Chi^2/nu = 0.048
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal49.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.93,   300.33)   25.72      2.69    0.68   -15.77
+             (    0.03,     0.04)    0.01      0.03    0.01     0.97
+ Chi^2 = 36.77809,  ndof = 592
+ Chi^2/nu = 0.062
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal50.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.44,   298.49)   26.81      8.61    0.64   -50.50
+             (    0.19,     0.16)    0.04      0.43    0.02     2.83
+ Chi^2 = 111.25502,  ndof = 512
+ Chi^2/nu = 0.217
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal51.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.73,   298.67)   27.59      6.02    0.32    82.10
+             (    0.17,     0.07)    0.02      0.25    0.01     0.76
+ Chi^2 = 45.45556,  ndof = 322
+ Chi^2/nu = 0.141
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal52.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.47,   300.92)   27.77      4.93    0.26   -18.59
+             (    0.05,     0.14)    0.02      0.17    0.01     0.69
+ Chi^2 = 16.15498,  ndof = 236
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal53.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.23,   298.99)   26.83      2.15    0.64   -78.90
+             (    0.05,     0.03)    0.01      0.04    0.01     1.40
+ Chi^2 = 18.03339,  ndof = 280
+ Chi^2/nu = 0.064
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal54.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.68,   294.71)   26.72     13.75    0.12     5.92
+             (    0.03,     0.20)    0.01      0.29    0.00     0.15
+ Chi^2 = 50.33279,  ndof = 616
+ Chi^2/nu = 0.082
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal55.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.69,   304.69)   25.50     15.08    0.67   -25.58
+             (    0.14,     0.23)    0.03      0.56    0.01     1.86
+ Chi^2 = 253.83889,  ndof = 1316
+ Chi^2/nu = 0.193
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal56.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.43,   297.20)   27.61      9.10    0.14    33.70
+             (    0.20,     0.29)    0.05      0.66    0.01     0.59
+ Chi^2 = 39.91141,  ndof = 213
+ Chi^2/nu = 0.187
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal57.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.69,   295.12)   25.97      3.75    0.55   -43.41
+             (    0.03,     0.03)    0.01      0.04    0.01     0.79
+ Chi^2 = 15.48755,  ndof = 434
+ Chi^2/nu = 0.036
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal58.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  311.19,   299.38)   24.45     17.84    0.15    71.53
+             (    0.13,     0.04)    0.01      0.14    0.00     0.09
+ Chi^2 = 162.68997,  ndof = 2454
+ Chi^2/nu = 0.066
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal59.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.43,   297.76)   26.75      4.76    0.62     3.06
+             (    0.04,     0.06)    0.01      0.06    0.01     0.76
+ Chi^2 = 16.80833,  ndof = 471
+ Chi^2/nu = 0.036
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal60.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.84,   296.91)   26.05      4.42    0.35     3.92
+             (    0.04,     0.08)    0.01      0.06    0.01     0.46
+ Chi^2 = 47.56825,  ndof = 567
+ Chi^2/nu = 0.084
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal61.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.05,   296.82)   27.04      7.09    0.71     8.72
+             (    0.11,     0.15)    0.04      0.38    0.02     2.97
+ Chi^2 = 67.75679,  ndof = 347
+ Chi^2/nu = 0.195
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal62.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.96,   297.78)   26.65      6.44    0.69    61.72
+             (    0.14,     0.10)    0.02      0.22    0.02     2.62
+ Chi^2 = 72.76005,  ndof = 510
+ Chi^2/nu = 0.143
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal63.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.95,   302.30)   25.86      8.14    0.23   -77.25
+             (    0.08,     0.03)    0.01      0.08    0.00     0.23
+ Chi^2 = 39.56155,  ndof = 736
+ Chi^2/nu = 0.054
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal64.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.89,   296.32)   26.68      7.97    0.92   -33.46
+             (    0.15,     0.17)    0.04      0.40    0.03    13.50
+ Chi^2 = 83.97120,  ndof = 446
+ Chi^2/nu = 0.188
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal65.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  307.35,   292.17)   25.93     11.91    0.26    31.36
+             (    0.07,     0.12)    0.01      0.20    0.00     0.25
+ Chi^2 = 76.91553,  ndof = 893
+ Chi^2/nu = 0.086
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal66.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.16,   300.28)   26.33     17.80    0.18    49.06
+             (    0.24,     0.21)    0.02      0.66    0.00     0.31
+ Chi^2 = 128.56538,  ndof = 695
+ Chi^2/nu = 0.185
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal67.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.61,   299.58)   27.33      2.98    0.72    85.34
+             (    0.10,     0.08)    0.02      0.09    0.02     2.89
+ Chi^2 = 54.97458,  ndof = 315
+ Chi^2/nu = 0.175
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal68.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.22,   298.18)   27.39      4.29    0.50   -26.49
+             (    0.06,     0.10)    0.02      0.16    0.01     1.55
+ Chi^2 = 16.92401,  ndof = 218
+ Chi^2/nu = 0.078
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal69.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.44,   292.98)   27.12     14.60    0.16    42.66
+             (    0.21,     0.23)    0.04      0.68    0.00     0.40
+ Chi^2 = 51.66591,  ndof = 356
+ Chi^2/nu = 0.145
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal70.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.59,   299.47)   25.80      1.96    0.93    70.92
+             (    0.04,     0.04)    0.01      0.03    0.02     8.83
+ Chi^2 = 60.30138,  ndof = 512
+ Chi^2/nu = 0.118
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal71.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.66,   298.01)   24.06      5.15    0.71   -30.26
+             (    0.05,     0.06)    0.01      0.06    0.01     1.07
+ Chi^2 = 726.48513,  ndof = 2118
+ Chi^2/nu = 0.343
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal72.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.03,   298.36)   26.11     10.20    0.61     8.72
+             (    0.14,     0.23)    0.03      0.47    0.02     2.12
+ Chi^2 = 141.37115,  ndof = 689
+ Chi^2/nu = 0.205
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal73.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.47,   299.44)   26.73      6.59    0.22   -24.99
+             (    0.04,     0.08)    0.01      0.09    0.00     0.23
+ Chi^2 = 14.12715,  ndof = 407
+ Chi^2/nu = 0.035
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal74.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.70,   298.70)   25.36      4.81    0.73    86.67
+             (    0.05,     0.04)    0.01      0.05    0.01     1.15
+ Chi^2 = 31.85778,  ndof = 687
+ Chi^2/nu = 0.046
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal75.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.16,   299.21)   27.18      3.72    0.45    38.03
+             (    0.04,     0.05)    0.01      0.07    0.01     0.81
+ Chi^2 = 8.60937,  ndof = 247
+ Chi^2/nu = 0.035
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal76.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.63,   301.70)   27.19      3.89    0.67   -47.40
+             (    0.07,     0.08)    0.02      0.12    0.01     2.12
+ Chi^2 = 31.23015,  ndof = 326
+ Chi^2/nu = 0.096
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal77.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.45,   299.14)   25.80      8.87    0.53   -60.76
+             (    0.10,     0.05)    0.01      0.18    0.01     0.76
+ Chi^2 = 59.32486,  ndof = 699
+ Chi^2/nu = 0.085
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal78.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.99,   299.49)   25.41     15.10    0.83   -21.25
+             (    0.13,     0.15)    0.04      0.66    0.02     4.62
+ Chi^2 = 167.79926,  ndof = 893
+ Chi^2/nu = 0.188
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal79.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.24,   296.33)   27.06      5.10    0.23    40.43
+             (    0.05,     0.06)    0.01      0.07    0.00     0.32
+ Chi^2 = 15.87968,  ndof = 321
+ Chi^2/nu = 0.049
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal80.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.18,   299.72)   25.52     11.89    0.37    68.23
+             (    0.21,     0.08)    0.02      0.37    0.01     0.75
+ Chi^2 = 129.29345,  ndof = 733
+ Chi^2/nu = 0.176
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal81.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.30,   301.89)   27.48      4.84    0.40    37.07
+             (    0.17,     0.21)    0.04      0.34    0.02     2.11
+ Chi^2 = 73.58972,  ndof = 258
+ Chi^2/nu = 0.285
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal82.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.65,   298.05)   26.43      3.06    0.83   -62.37
+             (    0.06,     0.05)    0.01      0.06    0.01     3.09
+ Chi^2 = 34.74989,  ndof = 383
+ Chi^2/nu = 0.091
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal83.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.57,   298.66)   26.37      6.88    0.38    47.24
+             (    0.30,     0.28)    0.04      0.54    0.02     2.13
+ Chi^2 = 271.72735,  ndof = 358
+ Chi^2/nu = 0.759
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal84.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.03,   298.40)   27.24      4.46    0.40   -10.87
+             (    0.07,     0.15)    0.03      0.21    0.01     1.51
+ Chi^2 = 22.74732,  ndof = 203
+ Chi^2/nu = 0.112
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal85.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.78,   298.43)   27.00     16.95   *0.07*  -63.79
+             (    0.44,     0.22)    0.05      1.11   *0.00*    0.25
+ Chi^2 = 40.77327,  ndof = 296
+ Chi^2/nu = 0.138
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal86.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.50,   301.74)   26.66      2.74    0.58   -14.56
+             (    0.03,     0.04)    0.01      0.04    0.01     0.86
+ Chi^2 = 13.70014,  ndof = 309
+ Chi^2/nu = 0.044
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal87.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.62,   296.58)   27.09      7.55    0.67   -61.98
+             (    0.14,     0.10)    0.05      0.42    0.03     3.08
+ Chi^2 = 43.00436,  ndof = 251
+ Chi^2/nu = 0.171
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal88.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  297.98,   296.23)   25.11     44.30    0.50    74.13
+             (    1.44,     0.62)    0.48     15.07    0.08     7.89
+ Chi^2 = 230.95538,  ndof = 416
+ Chi^2/nu = 0.555
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal89.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.22,   299.42)   26.97      3.85    0.69    70.93
+             (    0.07,     0.05)    0.01      0.08    0.01     1.73
+ Chi^2 = 22.25848,  ndof = 329
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal90.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.16,   303.12)   27.14      3.83    0.54    26.08
+             (    0.07,     0.12)    0.03      0.16    0.02     2.25
+ Chi^2 = 27.30586,  ndof = 234
+ Chi^2/nu = 0.117
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal91.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.51,   301.08)   25.75      6.81    0.87    41.60
+             (    0.07,     0.08)    0.01      0.13    0.01     3.81
+ Chi^2 = 127.95135,  ndof = 1057
+ Chi^2/nu = 0.121
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal92.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.43,   301.92)   27.12      6.10    0.29    47.07
+             (    0.12,     0.11)    0.02      0.21    0.01     0.68
+ Chi^2 = 26.62146,  ndof = 266
+ Chi^2/nu = 0.100
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal93.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.33,   299.28)   24.64      0.60    0.52    60.14
+             (    0.04,     0.03)    0.03      0.03    0.08     5.82
+ Chi^2 = 247.54492,  ndof = 144
+ Chi^2/nu = 1.719
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal94.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.67,   300.07)   26.37      8.04    0.78    85.53
+             (    0.12,     0.09)    0.02      0.24    0.02     2.63
+ Chi^2 = 65.70208,  ndof = 614
+ Chi^2/nu = 0.107
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal95.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.60,   299.27)   26.69     17.02    0.19   -70.05
+             (    0.29,     0.10)    0.04      0.82    0.00     0.38
+ Chi^2 = 104.61685,  ndof = 501
+ Chi^2/nu = 0.209
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal96.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.71,   299.36)   26.64      5.63    0.38   -86.79
+             (    0.07,     0.03)    0.01      0.08    0.01     0.40
+ Chi^2 = 20.23412,  ndof = 442
+ Chi^2/nu = 0.046
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal97.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.60,   298.07)   27.93      2.40    0.78    40.65
+             (    0.04,     0.05)    0.01      0.06    0.01     2.78
+ Chi^2 = 10.03716,  ndof = 201
+ Chi^2/nu = 0.050
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal98.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.67,   296.62)   25.70      7.29    0.38    -7.33
+             (    0.05,     0.10)    0.01      0.11    0.01     0.49
+ Chi^2 = 113.32012,  ndof = 949
+ Chi^2/nu = 0.119
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal99.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.04,   298.81)   27.29      4.76    0.37    47.86
+             (    0.09,     0.08)    0.02      0.11    0.01     0.61
+ Chi^2 = 53.64946,  ndof = 447
+ Chi^2/nu = 0.120
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal100.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.67,   300.69)   27.26      2.18    0.38    69.74
+             (    0.05,     0.03)    0.02      0.04    0.01     0.74
+ Chi^2 = 8.55621,  ndof = 195
+ Chi^2/nu = 0.044
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal101.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  295.08,   306.00)   20.39     21.27    0.64   -77.82
+             (    0.17,     0.10)    0.01      0.26    0.00     0.52
+ Chi^2 = 2823.75728,  ndof = 6493
+ Chi^2/nu = 0.435
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal102.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  314.20,   306.89)   20.67     50.27    0.88   -36.19
+             (    0.46,     0.37)    0.08      2.89    0.03     9.39
+ Chi^2 = 1213.60565,  ndof = 3334
+ Chi^2/nu = 0.364
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal103.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.98,   311.54)   21.12     10.48    0.78    70.11
+             (    0.07,     0.06)    0.01      0.06    0.00     0.65
+ Chi^2 = 668.25589,  ndof = 5121
+ Chi^2/nu = 0.130
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal104.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  309.66,   304.00)   20.83      5.53    0.72   -30.87
+             (    0.05,     0.06)    0.01      0.06    0.01     1.00
+ Chi^2 = 810.57658,  ndof = 2589
+ Chi^2/nu = 0.313
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal105.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.63,   302.64)   21.23     14.62    0.43   -77.75
+             (    0.08,     0.04)    0.00      0.09    0.00     0.19
+ Chi^2 = 213.17145,  ndof = 3707
+ Chi^2/nu = 0.058
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal106.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  306.03,   296.51)   19.70      8.81    0.48    24.92
+             (    0.02,     0.04)    0.00      0.04    0.00     0.18
+ Chi^2 = 776.80227,  ndof = 6148
+ Chi^2/nu = 0.126
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal107.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.98,   302.96)   19.64     11.99    0.89   -75.85
+             (    0.06,     0.05)    0.00      0.05    0.00     0.97
+ Chi^2 = 2477.03832,  ndof = 12461
+ Chi^2/nu = 0.199
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal108.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  312.29,   295.95)   21.22     17.72    0.36    56.97
+             (    0.14,     0.09)    0.01      0.19    0.00     0.28
+ Chi^2 = 756.21119,  ndof = 3901
+ Chi^2/nu = 0.194
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal109.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.66,   299.47)   21.72     11.92    0.59    23.57
+             (    0.06,     0.09)    0.01      0.12    0.00     0.45
+ Chi^2 = 349.52348,  ndof = 2854
+ Chi^2/nu = 0.122
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal110.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  311.15,   313.59)   21.06     17.90    0.73   -14.33
+             (    0.08,     0.11)    0.00      0.12    0.00     0.61
+ Chi^2 = 813.47327,  ndof = 7673
+ Chi^2/nu = 0.106
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal111.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  311.45,   299.23)   20.80     20.59    0.63   -47.86
+             (    0.14,     0.15)    0.01      0.36    0.01     0.78
+ Chi^2 = 1748.66096,  ndof = 4059
+ Chi^2/nu = 0.431
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal112.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.45,   301.01)   21.60     16.82    0.22    68.79
+             (    0.09,     0.03)    0.00      0.10    0.00     0.08
+ Chi^2 = 82.31866,  ndof = 2562
+ Chi^2/nu = 0.032
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal113.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.99,   294.90)   21.03     54.95    0.72    65.26
+             (    1.17,     0.72)    0.19      7.92    0.06     8.63
+ Chi^2 = 806.26153,  ndof = 1693
+ Chi^2/nu = 0.476
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal114.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  293.83,   303.00)   22.60      4.90    0.62   -22.60
+             (    0.03,     0.05)    0.01      0.05    0.01     0.66
+ Chi^2 = 37.89288,  ndof = 929
+ Chi^2/nu = 0.041
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal115.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.84,   307.90)   21.93     13.65    0.29   -10.27
+             (    0.03,     0.11)    0.01      0.12    0.00     0.17
+ Chi^2 = 104.86258,  ndof = 2068
+ Chi^2/nu = 0.051
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal116.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.01,   299.83)   22.58     11.36    0.71    36.48
+             (    0.09,     0.12)    0.01      0.21    0.01     1.43
+ Chi^2 = 161.21640,  ndof = 1554
+ Chi^2/nu = 0.104
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal117.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.57,   298.42)   22.91      5.72    0.44    81.76
+             (    0.06,     0.03)    0.01      0.05    0.00     0.31
+ Chi^2 = 41.33344,  ndof = 945
+ Chi^2/nu = 0.044
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal118.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.24,   302.68)   22.65      9.45    0.52    71.36
+             (    0.14,     0.08)    0.01      0.19    0.01     0.84
+ Chi^2 = 114.62724,  ndof = 1145
+ Chi^2/nu = 0.100
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal119.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.46,   297.77)   22.00      4.90    0.65   -38.42
+             (    0.07,     0.07)    0.01      0.07    0.01     0.97
+ Chi^2 = 640.14122,  ndof = 1613
+ Chi^2/nu = 0.397
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal120.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  295.72,   296.26)   19.48      9.01    0.50    83.03
+             (    0.05,     0.02)    0.00      0.04    0.00     0.19
+ Chi^2 = 696.62769,  ndof = 5110
+ Chi^2/nu = 0.136
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal121.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.16,   301.41)   22.09      9.65    0.73    87.84
+             (    0.18,     0.13)    0.01      0.25    0.01     2.35
+ Chi^2 = 243.15284,  ndof = 1328
+ Chi^2/nu = 0.183
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal122.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.48,   300.62)   23.71      8.67    0.25   -59.51
+             (    0.13,     0.08)    0.01      0.18    0.00     0.34
+ Chi^2 = 92.40646,  ndof = 747
+ Chi^2/nu = 0.124
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal123.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.82,   297.53)   21.24      4.57    0.77   -58.98
+             (    0.03,     0.02)    0.01      0.02    0.00     0.69
+ Chi^2 = 279.46859,  ndof = 2272
+ Chi^2/nu = 0.123
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal124.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.42,   299.09)   22.51      1.96    0.77   -51.77
+             (    0.04,     0.03)    0.01      0.04    0.01     2.99
+ Chi^2 = 214.84163,  ndof = 680
+ Chi^2/nu = 0.316
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal125.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.51,   297.36)   22.28      6.49    0.57    86.57
+             (    0.04,     0.03)    0.00      0.04    0.00     0.32
+ Chi^2 = 60.14419,  ndof = 1433
+ Chi^2/nu = 0.042
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal126.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.13,   299.54)   21.62      0.85    0.92   -11.10
+             (    0.02,     0.02)    0.01      0.02    0.03    13.44
+ Chi^2 = 606.86956,  ndof = 956
+ Chi^2/nu = 0.635
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal127.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.94,   303.45)   21.58     10.42    0.86    38.79
+             (    0.09,     0.09)    0.01      0.15    0.01     2.97
+ Chi^2 = 417.80921,  ndof = 2145
+ Chi^2/nu = 0.195
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal128.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  297.64,   301.26)   22.24      5.30    0.91    69.12
+             (    0.04,     0.04)    0.01      0.05    0.01     3.45
+ Chi^2 = 43.28400,  ndof = 917
+ Chi^2/nu = 0.047
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal129.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  305.45,   301.47)   21.39      4.42    0.69    51.60
+             (    0.05,     0.04)    0.01      0.05    0.01     1.17
+ Chi^2 = 430.57801,  ndof = 1366
+ Chi^2/nu = 0.315
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal130.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.98,   303.24)   22.02      6.01    0.41    -9.45
+             (    0.03,     0.06)    0.01      0.05    0.00     0.31
+ Chi^2 = 103.34357,  ndof = 1269
+ Chi^2/nu = 0.081
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal131.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.67,   299.44)   22.30     11.07    0.33    37.91
+             (    0.09,     0.11)    0.01      0.17    0.00     0.36
+ Chi^2 = 170.17771,  ndof = 1277
+ Chi^2/nu = 0.133
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal132.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.41,   301.41)   23.43      2.69    0.58   -62.26
+             (    0.05,     0.03)    0.01      0.05    0.01     1.21
+ Chi^2 = 19.31345,  ndof = 363
+ Chi^2/nu = 0.053
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal133.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.98,   302.28)   23.13      5.83    0.48    88.62
+             (    0.10,     0.07)    0.02      0.11    0.01     0.77
+ Chi^2 = 102.82979,  ndof = 759
+ Chi^2/nu = 0.135
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal134.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.61,   296.70)   22.48      9.78    0.15   -29.22
+             (    0.08,     0.14)    0.01      0.18    0.00     0.22
+ Chi^2 = 53.95497,  ndof = 719
+ Chi^2/nu = 0.075
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal135.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.67,   298.90)   24.12      6.50    0.32    49.09
+             (    0.13,     0.11)    0.02      0.25    0.01     0.74
+ Chi^2 = 30.79656,  ndof = 297
+ Chi^2/nu = 0.104
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal136.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.89,   299.25)   23.33      3.36    0.90   -43.83
+             (    0.03,     0.03)    0.01      0.04    0.01     4.04
+ Chi^2 = 11.38626,  ndof = 385
+ Chi^2/nu = 0.030
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal137.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.67,   299.29)   22.30      2.16    0.42    84.43
+             (    0.03,     0.02)    0.01      0.02    0.01     0.54
+ Chi^2 = 32.81832,  ndof = 456
+ Chi^2/nu = 0.072
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal138.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.04,   297.31)   23.15      4.31    0.27    40.95
+             (    0.04,     0.04)    0.01      0.04    0.00     0.24
+ Chi^2 = 18.26430,  ndof = 448
+ Chi^2/nu = 0.041
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal139.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.05,   297.73)   24.26      4.79    0.69    32.83
+             (    0.07,     0.11)    0.02      0.18    0.02     2.71
+ Chi^2 = 29.59756,  ndof = 311
+ Chi^2/nu = 0.095
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal140.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.71,   301.79)   24.53      8.55    0.24   -75.84
+             (    0.14,     0.04)    0.02      0.27    0.00     0.41
+ Chi^2 = 16.10446,  ndof = 254
+ Chi^2/nu = 0.063
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal141.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.43,   296.46)   23.37      8.37    0.23    17.13
+             (    0.03,     0.09)    0.01      0.11    0.00     0.21
+ Chi^2 = 20.57886,  ndof = 567
+ Chi^2/nu = 0.036
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal142.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.69,   300.34)   22.91      7.59    0.51    21.46
+             (    0.09,     0.16)    0.02      0.23    0.01     1.29
+ Chi^2 = 87.33044,  ndof = 640
+ Chi^2/nu = 0.136
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal143.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.74,   299.86)   24.00      7.88    0.37    80.48
+             (    0.29,     0.12)    0.03      0.42    0.01     1.27
+ Chi^2 = 88.02044,  ndof = 455
+ Chi^2/nu = 0.193
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal144.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.91,   298.73)   21.55     *0.27*   0.86   -30.64
+             (    0.01,     0.01)    0.01     *0.01*   0.05    10.42
+ Chi^2 = 58.89136,  ndof = 301
+ Chi^2/nu = 0.196
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal145.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  305.56,   296.89)   23.34      9.64    0.17    69.32
+             (    0.16,     0.06)    0.01      0.23    0.00     0.27
+ Chi^2 = 42.79206,  ndof = 484
+ Chi^2/nu = 0.088
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal146.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  296.32,   297.76)   23.50      4.19    0.32   -50.74
+             (    0.08,     0.07)    0.02      0.10    0.01     0.73
+ Chi^2 = 38.06684,  ndof = 320
+ Chi^2/nu = 0.119
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal147.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.59,   299.86)   24.60      6.74    0.25    33.03
+             (    0.13,     0.19)    0.03      0.38    0.01     0.89
+ Chi^2 = 34.64567,  ndof = 203
+ Chi^2/nu = 0.171
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal148.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.86,   299.34)   22.64      2.79    0.41   -72.33
+             (    0.06,     0.03)    0.01      0.04    0.01     0.66
+ Chi^2 = 70.04704,  ndof = 486
+ Chi^2/nu = 0.144
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal149.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.62,   299.51)   23.73      4.49    0.50   -85.32
+             (    0.08,     0.05)    0.01      0.09    0.01     0.88
+ Chi^2 = 14.74095,  ndof = 310
+ Chi^2/nu = 0.048
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal150.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.93,   300.33)   22.50      2.69    0.68   -15.77
+             (    0.03,     0.04)    0.01      0.03    0.01     0.97
+ Chi^2 = 36.77810,  ndof = 592
+ Chi^2/nu = 0.062
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal151.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.45,   298.49)   23.59      8.61    0.64   -50.50
+             (    0.19,     0.16)    0.04      0.43    0.02     2.83
+ Chi^2 = 111.25503,  ndof = 512
+ Chi^2/nu = 0.217
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal152.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.73,   298.67)   24.37      6.02    0.32    82.10
+             (    0.17,     0.07)    0.02      0.25    0.01     0.76
+ Chi^2 = 45.45556,  ndof = 322
+ Chi^2/nu = 0.141
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal153.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.47,   300.92)   24.55      4.93    0.26   -18.59
+             (    0.05,     0.14)    0.02      0.17    0.01     0.69
+ Chi^2 = 16.15498,  ndof = 236
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal154.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.23,   298.99)   23.61      2.15    0.64   -78.91
+             (    0.05,     0.03)    0.01      0.04    0.01     1.40
+ Chi^2 = 18.03340,  ndof = 280
+ Chi^2/nu = 0.064
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal155.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.68,   294.71)   23.50     13.76    0.12     5.93
+             (    0.03,     0.20)    0.01      0.29    0.00     0.15
+ Chi^2 = 50.33287,  ndof = 616
+ Chi^2/nu = 0.082
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal156.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.69,   304.69)   22.29     15.07    0.67   -25.58
+             (    0.14,     0.23)    0.03      0.56    0.01     1.86
+ Chi^2 = 253.83892,  ndof = 1316
+ Chi^2/nu = 0.193
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal157.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.43,   297.20)   24.39      9.10    0.14    33.70
+             (    0.20,     0.29)    0.05      0.66    0.01     0.59
+ Chi^2 = 39.91143,  ndof = 213
+ Chi^2/nu = 0.187
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal158.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.69,   295.12)   22.75      3.75    0.55   -43.41
+             (    0.03,     0.03)    0.01      0.04    0.01     0.79
+ Chi^2 = 15.48755,  ndof = 434
+ Chi^2/nu = 0.036
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal159.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  311.19,   299.38)   21.23     17.84    0.15    71.53
+             (    0.13,     0.04)    0.01      0.14    0.00     0.09
+ Chi^2 = 162.69002,  ndof = 2454
+ Chi^2/nu = 0.066
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal160.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.43,   297.76)   23.53      4.76    0.62     3.06
+             (    0.04,     0.06)    0.01      0.06    0.01     0.76
+ Chi^2 = 16.80833,  ndof = 471
+ Chi^2/nu = 0.036
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal161.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.84,   296.91)   22.83      4.42    0.35     3.92
+             (    0.04,     0.08)    0.01      0.06    0.01     0.46
+ Chi^2 = 47.56825,  ndof = 567
+ Chi^2/nu = 0.084
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal162.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.05,   296.82)   23.82      7.09    0.71     8.72
+             (    0.11,     0.15)    0.04      0.38    0.02     2.97
+ Chi^2 = 67.75679,  ndof = 347
+ Chi^2/nu = 0.195
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal163.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.96,   297.78)   23.43      6.44    0.69    61.72
+             (    0.14,     0.10)    0.02      0.22    0.02     2.62
+ Chi^2 = 72.76005,  ndof = 510
+ Chi^2/nu = 0.143
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal164.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.95,   302.30)   22.64      8.14    0.23   -77.25
+             (    0.08,     0.03)    0.01      0.08    0.00     0.23
+ Chi^2 = 39.56155,  ndof = 736
+ Chi^2/nu = 0.054
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal165.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.89,   296.32)   23.46      7.97    0.92   -33.46
+             (    0.15,     0.17)    0.04      0.40    0.03    13.49
+ Chi^2 = 83.97121,  ndof = 446
+ Chi^2/nu = 0.188
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal166.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  307.35,   292.17)   22.71     11.91    0.26    31.36
+             (    0.07,     0.12)    0.01      0.20    0.00     0.25
+ Chi^2 = 76.91553,  ndof = 893
+ Chi^2/nu = 0.086
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal167.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.16,   300.28)   23.11     17.80    0.18    49.06
+             (    0.24,     0.21)    0.02      0.66    0.00     0.31
+ Chi^2 = 128.56539,  ndof = 695
+ Chi^2/nu = 0.185
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal168.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.61,   299.58)   24.12      2.98    0.72    85.34
+             (    0.10,     0.08)    0.02      0.09    0.02     2.89
+ Chi^2 = 54.97458,  ndof = 315
+ Chi^2/nu = 0.175
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal169.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.21,   298.18)   24.17      4.29    0.50   -26.50
+             (    0.06,     0.10)    0.02      0.16    0.01     1.55
+ Chi^2 = 16.92393,  ndof = 218
+ Chi^2/nu = 0.078
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal170.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.44,   292.98)   23.90     14.60    0.16    42.66
+             (    0.21,     0.23)    0.04      0.68    0.00     0.40
+ Chi^2 = 51.66591,  ndof = 356
+ Chi^2/nu = 0.145
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal171.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.59,   299.47)   22.58      1.96    0.93    70.91
+             (    0.04,     0.04)    0.01      0.03    0.02     8.83
+ Chi^2 = 60.30137,  ndof = 512
+ Chi^2/nu = 0.118
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal172.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.66,   298.01)   20.84      5.15    0.71   -30.25
+             (    0.05,     0.06)    0.01      0.06    0.01     1.07
+ Chi^2 = 726.48514,  ndof = 2118
+ Chi^2/nu = 0.343
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal173.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.03,   298.36)   22.89     10.20    0.61     8.72
+             (    0.14,     0.23)    0.03      0.47    0.02     2.12
+ Chi^2 = 141.37115,  ndof = 689
+ Chi^2/nu = 0.205
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal174.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.47,   299.44)   23.51      6.59    0.22   -24.99
+             (    0.04,     0.08)    0.01      0.09    0.00     0.23
+ Chi^2 = 14.12715,  ndof = 407
+ Chi^2/nu = 0.035
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal175.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.70,   298.70)   22.14      4.81    0.73    86.67
+             (    0.05,     0.04)    0.01      0.05    0.01     1.15
+ Chi^2 = 31.85779,  ndof = 687
+ Chi^2/nu = 0.046
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal176.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.16,   299.21)   23.96      3.72    0.45    38.03
+             (    0.04,     0.05)    0.01      0.07    0.01     0.81
+ Chi^2 = 8.60937,  ndof = 247
+ Chi^2/nu = 0.035
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal177.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.63,   301.70)   23.98      3.89    0.67   -47.39
+             (    0.07,     0.08)    0.02      0.12    0.01     2.12
+ Chi^2 = 31.23015,  ndof = 326
+ Chi^2/nu = 0.096
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal178.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.45,   299.14)   22.58      8.87    0.53   -60.76
+             (    0.10,     0.05)    0.01      0.18    0.01     0.76
+ Chi^2 = 59.32486,  ndof = 699
+ Chi^2/nu = 0.085
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal179.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.99,   299.49)   22.19     15.10    0.83   -21.25
+             (    0.13,     0.15)    0.04      0.66    0.02     4.62
+ Chi^2 = 167.79926,  ndof = 893
+ Chi^2/nu = 0.188
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal180.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.24,   296.33)   23.84      5.10    0.23    40.43
+             (    0.05,     0.06)    0.01      0.07    0.00     0.32
+ Chi^2 = 15.87968,  ndof = 321
+ Chi^2/nu = 0.049
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal181.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.18,   299.72)   22.30     11.89    0.37    68.23
+             (    0.21,     0.08)    0.02      0.37    0.01     0.75
+ Chi^2 = 129.29345,  ndof = 733
+ Chi^2/nu = 0.176
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal182.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.30,   301.89)   24.26      4.84    0.40    37.06
+             (    0.17,     0.21)    0.04      0.34    0.02     2.11
+ Chi^2 = 73.58972,  ndof = 258
+ Chi^2/nu = 0.285
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal183.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.65,   298.05)   23.21      3.06    0.83   -62.37
+             (    0.06,     0.05)    0.01      0.06    0.01     3.09
+ Chi^2 = 34.74989,  ndof = 383
+ Chi^2/nu = 0.091
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal184.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.57,   298.66)   23.15      6.88    0.38    47.24
+             (    0.30,     0.28)    0.04      0.54    0.02     2.13
+ Chi^2 = 271.72736,  ndof = 358
+ Chi^2/nu = 0.759
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal185.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.03,   298.40)   24.02      4.46    0.40   -10.87
+             (    0.07,     0.15)    0.03      0.21    0.01     1.51
+ Chi^2 = 22.74732,  ndof = 203
+ Chi^2/nu = 0.112
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal186.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.77,   298.43)   23.79     16.94   *0.07*  -63.79
+             (    0.44,     0.22)    0.05      1.11   *0.00*    0.25
+ Chi^2 = 40.77314,  ndof = 296
+ Chi^2/nu = 0.138
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal187.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.50,   301.74)   23.44      2.73    0.57   -14.54
+             (    0.03,     0.04)    0.01      0.04    0.01     0.85
+ Chi^2 = 13.70365,  ndof = 309
+ Chi^2/nu = 0.044
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal188.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.62,   296.58)   23.87      7.55    0.67   -61.98
+             (    0.14,     0.10)    0.05      0.42    0.03     3.08
+ Chi^2 = 43.00436,  ndof = 251
+ Chi^2/nu = 0.171
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal189.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  297.98,   296.23)   21.89     44.30    0.50    74.13
+             (    1.44,     0.62)    0.48     15.07    0.08     7.89
+ Chi^2 = 230.95537,  ndof = 416
+ Chi^2/nu = 0.555
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal190.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.22,   299.42)   23.75      3.85    0.69    70.93
+             (    0.07,     0.05)    0.01      0.08    0.01     1.73
+ Chi^2 = 22.25848,  ndof = 329
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal191.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.16,   303.12)   23.92      3.83    0.54    26.08
+             (    0.07,     0.12)    0.03      0.16    0.02     2.25
+ Chi^2 = 27.30586,  ndof = 234
+ Chi^2/nu = 0.117
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal192.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.51,   301.08)   22.53      6.81    0.87    41.60
+             (    0.07,     0.08)    0.01      0.13    0.01     3.81
+ Chi^2 = 127.95135,  ndof = 1057
+ Chi^2/nu = 0.121
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal193.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.43,   301.92)   23.90      6.10    0.29    47.07
+             (    0.12,     0.11)    0.02      0.21    0.01     0.68
+ Chi^2 = 26.62146,  ndof = 266
+ Chi^2/nu = 0.100
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal194.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.33,   299.28)   21.42      0.60    0.52    60.14
+             (    0.04,     0.03)    0.03      0.03    0.08     5.82
+ Chi^2 = 247.54494,  ndof = 144
+ Chi^2/nu = 1.719
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal195.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.67,   300.07)   23.15      8.04    0.78    85.53
+             (    0.12,     0.09)    0.02      0.24    0.02     2.63
+ Chi^2 = 65.70208,  ndof = 614
+ Chi^2/nu = 0.107
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal196.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.60,   299.27)   23.47     17.02    0.19   -70.05
+             (    0.29,     0.10)    0.04      0.82    0.00     0.38
+ Chi^2 = 104.61685,  ndof = 501
+ Chi^2/nu = 0.209
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal197.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.71,   299.36)   23.42      5.63    0.38   -86.79
+             (    0.07,     0.03)    0.01      0.08    0.01     0.40
+ Chi^2 = 20.23412,  ndof = 442
+ Chi^2/nu = 0.046
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal198.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.60,   298.07)   24.71      2.40    0.78    40.65
+             (    0.04,     0.05)    0.01      0.06    0.01     2.78
+ Chi^2 = 10.03716,  ndof = 201
+ Chi^2/nu = 0.050
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal199.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.67,   296.62)   22.49      7.29    0.38    -7.33
+             (    0.05,     0.10)    0.01      0.11    0.01     0.49
+ Chi^2 = 113.32012,  ndof = 949
+ Chi^2/nu = 0.119
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal200.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.04,   298.81)   24.07      4.76    0.37    47.86
+             (    0.09,     0.08)    0.02      0.11    0.01     0.61
+ Chi^2 = 53.64946,  ndof = 447
+ Chi^2/nu = 0.120
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal201.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.67,   300.69)   24.04      2.18    0.38    69.74
+             (    0.05,     0.03)    0.02      0.04    0.01     0.74
+ Chi^2 = 8.55619,  ndof = 195
+ Chi^2/nu = 0.044
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal202.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.66,   300.73)   24.43      4.06    0.22    18.82
+             (    0.04,     0.10)    0.02      0.11    0.01     0.53
+ Chi^2 = 13.41978,  ndof = 198
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal203.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.39,   299.62)   23.90      7.32    0.77    27.16
+             (    0.13,     0.18)    0.03      0.38    0.02     4.13
+ Chi^2 = 107.22037,  ndof = 496
+ Chi^2/nu = 0.216
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal204.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.95,   301.14)   23.82      2.13    0.61   -20.11
+             (    0.04,     0.05)    0.02      0.04    0.01     1.43
+ Chi^2 = 21.68846,  ndof = 331
+ Chi^2/nu = 0.066
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal205.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.82,   298.55)   24.10      7.07    0.21    67.98
+             (    0.36,     0.14)    0.06      0.67    0.01     1.21
+ Chi^2 = 50.04682,  ndof = 201
+ Chi^2/nu = 0.249
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal206.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.50,   299.31)   23.54      9.51    0.75    -9.26
+             (    0.18,     0.26)    0.07      0.74    0.03     5.20
+ Chi^2 = 128.45546,  ndof = 433
+ Chi^2/nu = 0.297
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal207.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.31,   299.08)   24.99      2.45    0.37   -65.38
+             (    0.10,     0.07)    0.04      0.11    0.02     1.92
+ Chi^2 = 18.71811,  ndof = 119
+ Chi^2/nu = 0.157
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal208.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.37,   298.43)   25.01      3.13    0.46    37.32
+             (    0.12,     0.17)    0.06      0.28    0.03     3.91
+ Chi^2 = 48.22804,  ndof = 137
+ Chi^2/nu = 0.352
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal209.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.06,   302.65)   25.18      2.64    0.60     9.55
+             (    0.08,     0.13)    0.03      0.16    0.03     3.42
+ Chi^2 = 15.33085,  ndof = 122
+ Chi^2/nu = 0.126
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal210.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.77,   301.67)   23.23      2.32    0.74    34.28
+             (    0.04,     0.05)    0.01      0.05    0.01     2.51
+ Chi^2 = 20.82173,  ndof = 307
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal211.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.42,   300.96)   20.83     *0.49*   0.51    55.91
+             (    0.01,     0.01)    0.01     *0.01*   0.04     2.86
+ Chi^2 = 242.33104,  ndof = 259
+ Chi^2/nu = 0.936
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal212.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.48,   295.76)   21.45     64.21    0.34    69.78
+             (    2.19,     0.78)    0.64     31.00    0.11     6.53
+ Chi^2 = 207.44619,  ndof = 358
+ Chi^2/nu = 0.579
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal213.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.43,   304.25)   24.65     10.47    0.25    -9.40
+             (    0.18,     0.65)    0.17      1.89    0.03     2.57
+ Chi^2 = 55.62044,  ndof = 145
+ Chi^2/nu = 0.384
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal214.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.12,   299.95)   25.60      1.45    0.83    32.65
+             (    0.04,     0.05)    0.02      0.07    0.03     8.32
+ Chi^2 = 3.17758,  ndof = 67
+ Chi^2/nu = 0.047
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal215.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.95,   299.69)   24.85      4.60    0.38   -38.23
+             (    0.09,     0.10)    0.04      0.27    0.01     1.37
+ Chi^2 = 9.55868,  ndof = 118
+ Chi^2/nu = 0.081
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal216.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  306.21,   298.61)   25.31      2.07    0.46   -76.80
+             (    0.12,     0.08)    0.04      0.10    0.03     2.79
+ Chi^2 = 19.59138,  ndof = 119
+ Chi^2/nu = 0.165
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal217.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.70,   298.58)   24.19      1.78    0.49   -41.71
+             (    0.04,     0.05)    0.02      0.05    0.01     1.61
+ Chi^2 = 13.26064,  ndof = 171
+ Chi^2/nu = 0.078
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal218.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.74,   300.11)   23.86      2.51    0.53    12.81
+             (    0.02,     0.04)    0.01      0.04    0.01     0.83
+ Chi^2 = 3.61857,  ndof = 191
+ Chi^2/nu = 0.019
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal219.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.25,   299.17)   22.48      1.93    0.69   -40.72
+             (    0.03,     0.03)    0.01      0.03    0.01     1.82
+ Chi^2 = 72.99451,  ndof = 500
+ Chi^2/nu = 0.146
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal220.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.70,   299.22)   23.72      2.69    0.83   -49.38
+             (    0.03,     0.03)    0.01      0.03    0.01     2.49
+ Chi^2 = 5.74109,  ndof = 285
+ Chi^2/nu = 0.020
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal221.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.53,   300.87)   24.80      5.42    0.25    82.43
+             (    0.13,     0.05)    0.02      0.19    0.01     0.61
+ Chi^2 = 14.31719,  ndof = 186
+ Chi^2/nu = 0.077
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal222.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.40,   300.45)   24.20      5.16    0.64   -80.08
+             (    0.12,     0.08)    0.02      0.22    0.01     1.96
+ Chi^2 = 38.16167,  ndof = 299
+ Chi^2/nu = 0.128
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal223.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.92,   300.05)   25.26      2.91    0.41   -71.00
+             (    0.10,     0.05)    0.02      0.13    0.01     1.48
+ Chi^2 = 7.89740,  ndof = 116
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal224.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.99,   299.52)   24.41      3.46    0.41   -24.06
+             (    0.03,     0.05)    0.01      0.06    0.01     0.59
+ Chi^2 = 5.96601,  ndof = 202
+ Chi^2/nu = 0.030
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal225.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.23,   300.74)   21.97      1.68    0.87    19.73
+             (    0.04,     0.04)    0.01      0.03    0.02     5.29
+ Chi^2 = 90.03973,  ndof = 374
+ Chi^2/nu = 0.241
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal226.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.32,   300.29)   25.10      2.28    0.39   -17.25
+             (    0.03,     0.06)    0.02      0.06    0.01     1.02
+ Chi^2 = 3.58055,  ndof = 108
+ Chi^2/nu = 0.033
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal227.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.50,   303.64)   24.52      3.13    0.24   -27.74
+             (    0.08,     0.14)    0.04      0.14    0.02     0.99
+ Chi^2 = 52.26663,  ndof = 213
+ Chi^2/nu = 0.245
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal228.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.65,   299.62)   24.10      5.38    0.77   -67.07
+             (    0.15,     0.11)    0.04      0.30    0.03     5.18
+ Chi^2 = 49.93432,  ndof = 271
+ Chi^2/nu = 0.184
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal229.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.02,   300.40)   23.03      1.69    0.41   -39.50
+             (    0.03,     0.03)    0.02      0.03    0.01     0.93
+ Chi^2 = 32.00901,  ndof = 267
+ Chi^2/nu = 0.120
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal230.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.92,   299.05)   24.09      3.28    0.74    -8.36
+             (    0.05,     0.06)    0.01      0.06    0.01     2.00
+ Chi^2 = 10.50498,  ndof = 277
+ Chi^2/nu = 0.038
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal231.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.18,   300.13)   24.49      3.99    0.54   -63.44
+             (    0.09,     0.06)    0.02      0.14    0.01     1.59
+ Chi^2 = 15.48447,  ndof = 201
+ Chi^2/nu = 0.077
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal232.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.23,   298.71)   22.28     12.12    0.37    68.43
+             (    0.21,     0.08)    0.02      0.39    0.01     0.75
+ Chi^2 = 129.00998,  ndof = 720
+ Chi^2/nu = 0.179
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal233.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.74,   300.12)   23.69      7.98    0.31     4.52
+             (    0.05,     0.13)    0.01      0.20    0.01     0.45
+ Chi^2 = 38.58304,  ndof = 447
+ Chi^2/nu = 0.086
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal234.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.00,   299.94)   23.97      3.77    0.40   -53.41
+             (    0.04,     0.03)    0.01      0.05    0.01     0.48
+ Chi^2 = 7.23909,  ndof = 251
+ Chi^2/nu = 0.029
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal235.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.62,   300.30)   23.48      3.89    0.67    16.67
+             (    0.06,     0.08)    0.01      0.11    0.02     2.17
+ Chi^2 = 17.85539,  ndof = 261
+ Chi^2/nu = 0.068
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal236.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.88,   297.46)   22.84      5.46    0.61    -0.92
+             (    0.05,     0.06)    0.01      0.06    0.01     0.82
+ Chi^2 = 80.74724,  ndof = 768
+ Chi^2/nu = 0.105
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal237.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.71,   298.31)   23.95      6.52    0.65   -86.16
+             (    0.14,     0.10)    0.02      0.29    0.02     2.02
+ Chi^2 = 66.30910,  ndof = 374
+ Chi^2/nu = 0.177
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal238.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.88,   297.93)   24.08     *0.39*   0.90   -45.33
+             (    0.03,     0.03)    0.03     *0.03*   0.13    40.33
+ Chi^2 = 35.88668,  ndof = 143
+ Chi^2/nu = 0.251
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal239.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.00,   298.95)   24.30      2.07    0.83   -45.45
+             (    0.03,     0.03)    0.01      0.03    0.01     2.90
+ Chi^2 = 4.73417,  ndof = 195
+ Chi^2/nu = 0.024
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal240.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.00,   300.39)   24.29      1.30    0.67   -89.54
+             (    0.07,     0.05)    0.03      0.05    0.03     4.52
+ Chi^2 = 18.39696,  ndof = 136
+ Chi^2/nu = 0.135
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal241.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.36,   299.37)   22.38      2.45    0.77    88.81
+             (    0.06,     0.05)    0.02      0.05    0.01     2.74
+ Chi^2 = 100.39758,  ndof = 399
+ Chi^2/nu = 0.252
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal242.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  294.21,   302.32)   21.28     11.09    0.49    69.69
+             (    0.17,     0.08)    0.01      0.26    0.01     0.77
+ Chi^2 = 492.50330,  ndof = 1381
+ Chi^2/nu = 0.357
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal243.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.17,   303.47)   24.96      4.49    0.22    21.07
+             (    0.06,     0.13)    0.03      0.22    0.01     0.76
+ Chi^2 = 15.56711,  ndof = 128
+ Chi^2/nu = 0.122
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal244.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.27,   300.02)   23.07      1.49    0.82   -50.14
+             (    0.04,     0.04)    0.02      0.04    0.02     5.09
+ Chi^2 = 57.04286,  ndof = 302
+ Chi^2/nu = 0.189
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal245.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.04,   298.83)   23.93      6.65    0.65    87.05
+             (    0.14,     0.09)    0.04      0.34    0.02     2.39
+ Chi^2 = 40.84599,  ndof = 255
+ Chi^2/nu = 0.160
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal246.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.33,   299.17)   24.74      7.12    0.21    82.18
+             (    0.17,     0.04)    0.02      0.31    0.01     0.51
+ Chi^2 = 15.97932,  ndof = 185
+ Chi^2/nu = 0.086
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal247.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.48,   298.96)   22.81      3.90    0.39    32.74
+             (    0.02,     0.04)    0.01      0.04    0.00     0.37
+ Chi^2 = 10.51399,  ndof = 425
+ Chi^2/nu = 0.025
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal248.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.88,   302.92)   24.27      7.17    0.17    29.94
+             (    0.10,     0.18)    0.03      0.34    0.01     0.52
+ Chi^2 = 22.65940,  ndof = 192
+ Chi^2/nu = 0.118
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal249.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  297.85,   296.67)   22.56      6.46    0.92   -16.49
+             (    0.10,     0.10)    0.02      0.20    0.02     8.58
+ Chi^2 = 93.34098,  ndof = 541
+ Chi^2/nu = 0.173
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal250.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.13,   297.51)   22.18      8.51    0.47    28.72
+             (    0.04,     0.08)    0.01      0.13    0.00     0.54
+ Chi^2 = 45.79353,  ndof = 657
+ Chi^2/nu = 0.070
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal251.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.94,   297.79)   24.38      2.30    0.52   -40.82
+             (    0.06,     0.06)    0.03      0.09    0.03     2.83
+ Chi^2 = 28.89048,  ndof = 124
+ Chi^2/nu = 0.233
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal252.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.14,   300.50)   24.39      2.90    0.54   -48.61
+             (    0.05,     0.04)    0.02      0.06    0.01     1.13
+ Chi^2 = 11.82979,  ndof = 244
+ Chi^2/nu = 0.048
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal253.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.13,   299.86)   22.22     *0.01*   0.47    86.10
+             (     nan,      nan)     nan      *nan*    nan      nan
+ Chi^2 = 208.67487,  ndof = 136
+ Chi^2/nu = 1.534
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal254.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.61,   295.70)   23.24      6.10    0.39    11.79
+             (    0.05,     0.11)    0.01      0.14    0.01     0.63
+ Chi^2 = 45.90406,  ndof = 510
+ Chi^2/nu = 0.090
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal255.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.67,   299.35)   24.58      3.58    0.36    76.66
+             (    0.14,     0.09)    0.04      0.16    0.02     1.60
+ Chi^2 = 42.71864,  ndof = 195
+ Chi^2/nu = 0.219
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal256.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.75,   301.95)   24.25      2.95    0.69   -28.54
+             (    0.06,     0.08)    0.02      0.09    0.02     2.64
+ Chi^2 = 14.51519,  ndof = 223
+ Chi^2/nu = 0.065
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal257.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.66,   296.61)   22.47      7.42    0.39    -7.62
+             (    0.06,     0.12)    0.01      0.13    0.01     0.54
+ Chi^2 = 112.16009,  ndof = 841
+ Chi^2/nu = 0.133
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal258.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.73,   300.41)   22.92      2.39    0.68   -75.01
+             (    0.06,     0.05)    0.01      0.05    0.01     2.13
+ Chi^2 = 37.78612,  ndof = 358
+ Chi^2/nu = 0.106
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal259.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.30,   300.09)   24.95      2.28    0.49    28.59
+             (    0.05,     0.08)    0.03      0.09    0.02     2.06
+ Chi^2 = 10.61898,  ndof = 130
+ Chi^2/nu = 0.082
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal260.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.75,   299.12)   24.30      5.45    0.80    46.61
+             (    0.11,     0.10)    0.03      0.29    0.03     5.40
+ Chi^2 = 34.07731,  ndof = 278
+ Chi^2/nu = 0.123
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal261.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.51,   298.56)   24.52      4.92    0.25    60.51
+             (    0.10,     0.06)    0.02      0.14    0.01     0.53
+ Chi^2 = 12.79489,  ndof = 224
+ Chi^2/nu = 0.057
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal262.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  305.40,   298.00)   24.61      4.09    0.59   -73.45
+             (    0.08,     0.06)    0.02      0.13    0.01     1.60
+ Chi^2 = 10.67667,  ndof = 181
+ Chi^2/nu = 0.059
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal263.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.28,   299.59)   24.91      2.26    0.36    76.13
+             (    0.06,     0.03)    0.02      0.06    0.01     1.02
+ Chi^2 = 5.34152,  ndof = 110
+ Chi^2/nu = 0.049
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal264.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.03,   298.13)   24.52      5.22    0.20    62.77
+             (    0.08,     0.04)    0.01      0.13    0.00     0.35
+ Chi^2 = 6.62220,  ndof = 184
+ Chi^2/nu = 0.036
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal265.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.83,   299.61)   24.63      2.59    0.64    57.07
+             (    0.06,     0.04)    0.01      0.08    0.01     2.03
+ Chi^2 = 5.93780,  ndof = 150
+ Chi^2/nu = 0.040
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal266.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.75,   300.11)   25.31      2.91    0.23    31.92
+             (    0.05,     0.08)    0.02      0.11    0.01     0.78
+ Chi^2 = 5.73183,  ndof = 98
+ Chi^2/nu = 0.058
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal267.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.90,   301.21)   24.39      1.59    0.63     9.56
+             (    0.03,     0.04)    0.01      0.03    0.01     1.75
+ Chi^2 = 4.60505,  ndof = 140
+ Chi^2/nu = 0.033
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal268.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.59,   300.25)   23.80      4.49    0.62    35.89
+             (    0.05,     0.07)    0.01      0.12    0.01     1.46
+ Chi^2 = 24.33077,  ndof = 303
+ Chi^2/nu = 0.080
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal269.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.80,   294.50)   23.35      5.71    0.51    21.20
+             (    0.05,     0.09)    0.01      0.12    0.01     0.85
+ Chi^2 = 30.15150,  ndof = 438
+ Chi^2/nu = 0.069
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal270.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.75,   300.04)   24.41      1.10    0.54   -89.06
+             (    0.04,     0.03)    0.02      0.03    0.02     2.26
+ Chi^2 = 5.73171,  ndof = 106
+ Chi^2/nu = 0.054
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal271.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.09,   300.24)   24.14      4.99    0.41    24.04
+             (    0.04,     0.08)    0.01      0.12    0.01     0.66
+ Chi^2 = 16.45832,  ndof = 252
+ Chi^2/nu = 0.065
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal272.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  308.37,   302.57)   21.83     12.16    0.40    66.95
+             (    0.13,     0.06)    0.01      0.21    0.00     0.45
+ Chi^2 = 167.89583,  ndof = 1311
+ Chi^2/nu = 0.128
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal273.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.62,   299.70)   22.69      4.47    0.67     0.99
+             (    0.03,     0.04)    0.01      0.04    0.01     0.83
+ Chi^2 = 15.78477,  ndof = 562
+ Chi^2/nu = 0.028
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal274.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.98,   298.48)   21.14      6.17    0.63    77.39
+             (    0.05,     0.03)    0.01      0.04    0.00     0.47
+ Chi^2 = 154.50065,  ndof = 1747
+ Chi^2/nu = 0.088
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal275.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.18,   298.81)   22.53      4.50    0.93   -45.90
+             (    0.07,     0.07)    0.01      0.09    0.02     8.25
+ Chi^2 = 157.05891,  ndof = 818
+ Chi^2/nu = 0.192
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal276.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  305.50,   297.97)   23.06      9.79    0.50    88.59
+             (    0.28,     0.15)    0.05      0.63    0.02     2.00
+ Chi^2 = 136.44906,  ndof = 410
+ Chi^2/nu = 0.333
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal277.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.88,   303.70)   22.02      7.96    0.95   -64.50
+             (    0.09,     0.09)    0.01      0.14    0.01     8.09
+ Chi^2 = 175.36775,  ndof = 1328
+ Chi^2/nu = 0.132
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal278.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.12,   296.26)   23.16     10.72    0.57   -29.47
+             (    0.10,     0.16)    0.03      0.42    0.01     1.61
+ Chi^2 = 98.69232,  ndof = 578
+ Chi^2/nu = 0.171
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal279.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.69,   301.87)   23.58      3.10    0.53    25.07
+             (    0.02,     0.03)    0.01      0.03    0.01     0.55
+ Chi^2 = 5.08881,  ndof = 303
+ Chi^2/nu = 0.017
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal280.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.85,   298.50)   23.72      3.09    0.61    -4.97
+             (    0.03,     0.03)    0.01      0.03    0.01     0.82
+ Chi^2 = 5.19002,  ndof = 252
+ Chi^2/nu = 0.021
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal281.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.33,   300.48)   23.31      3.10    0.80   -58.04
+             (    0.06,     0.05)    0.01      0.06    0.01     2.91
+ Chi^2 = 45.07135,  ndof = 374
+ Chi^2/nu = 0.121
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal282.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  297.17,   295.44)   21.43      6.32    0.77   -27.49
+             (    0.09,     0.11)    0.01      0.13    0.01     2.12
+ Chi^2 = 807.02727,  ndof = 1352
+ Chi^2/nu = 0.597
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal283.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.95,   299.03)   21.58      5.78    0.84   -12.04
+             (    0.04,     0.05)    0.00      0.05    0.01     1.58
+ Chi^2 = 79.66444,  ndof = 1382
+ Chi^2/nu = 0.058
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal284.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.87,   296.64)   21.17      7.63    0.67    89.97
+             (    0.05,     0.04)    0.00      0.05    0.00     0.57
+ Chi^2 = 86.69507,  ndof = 1780
+ Chi^2/nu = 0.049
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal285.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.11,   297.14)   21.26     12.88    0.31    -7.46
+             (    0.16,     0.49)    0.03      0.71    0.01     1.18
+ Chi^2 = 1416.79475,  ndof = 1212
+ Chi^2/nu = 1.169
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal286.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  304.67,   301.43)   22.42      6.44    0.86   -79.07
+             (    0.08,     0.07)    0.01      0.12    0.01     3.19
+ Chi^2 = 85.41327,  ndof = 743
+ Chi^2/nu = 0.115
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal287.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  301.07,   296.18)   20.71     14.59    0.84   -20.23
+             (    0.08,     0.11)    0.01      0.18    0.01     1.87
+ Chi^2 = 404.33220,  ndof = 2894
+ Chi^2/nu = 0.140
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal288.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.63,   301.64)   22.07     13.93    0.25   -34.75
+             (    0.07,     0.09)    0.01      0.15    0.00     0.17
+ Chi^2 = 71.18200,  ndof = 1210
+ Chi^2/nu = 0.059
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal289.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.54,   299.45)   21.53      3.67    0.75    56.67
+             (    0.05,     0.04)    0.01      0.05    0.01     1.54
+ Chi^2 = 329.12406,  ndof = 1087
+ Chi^2/nu = 0.303
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal290.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.44,   303.08)   22.67     12.23    0.18    74.65
+             (    0.16,     0.04)    0.01      0.22    0.00     0.20
+ Chi^2 = 66.69427,  ndof = 808
+ Chi^2/nu = 0.083
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal291.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.46,   298.12)   23.15      5.70    0.53    50.95
+             (    0.09,     0.06)    0.01      0.13    0.01     0.94
+ Chi^2 = 87.59467,  ndof = 571
+ Chi^2/nu = 0.153
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal292.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.81,   298.66)   21.53      2.50    0.85   -55.73
+             (    0.05,     0.04)    0.01      0.04    0.01     3.79
+ Chi^2 = 311.10984,  ndof = 788
+ Chi^2/nu = 0.395
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal293.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.89,   300.51)   21.36      3.44    0.75    -1.81
+             (    0.05,     0.06)    0.01      0.05    0.01     1.68
+ Chi^2 = 331.59957,  ndof = 925
+ Chi^2/nu = 0.358
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal294.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.00,   300.32)   22.80      3.05    0.59    72.82
+             (    0.08,     0.06)    0.02      0.07    0.01     1.38
+ Chi^2 = 114.71247,  ndof = 403
+ Chi^2/nu = 0.285
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal295.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  302.75,   301.27)   23.17      5.12    0.31    39.31
+             (    0.05,     0.06)    0.01      0.08    0.00     0.37
+ Chi^2 = 15.93916,  ndof = 397
+ Chi^2/nu = 0.040
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal296.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  298.99,   299.32)   22.46      6.37    0.83   -70.90
+             (    0.07,     0.06)    0.01      0.11    0.01     2.51
+ Chi^2 = 42.52680,  ndof = 617
+ Chi^2/nu = 0.069
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal297.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.46,   298.94)   24.29      6.31    0.42     0.74
+             (    0.09,     0.15)    0.02      0.28    0.01     1.15
+ Chi^2 = 46.23303,  ndof = 299
+ Chi^2/nu = 0.155
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal298.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  303.01,   296.75)   22.04     16.09    0.28    89.92
+             (    0.15,     0.05)    0.01      0.21    0.00     0.20
+ Chi^2 = 101.01477,  ndof = 1219
+ Chi^2/nu = 0.083
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal299.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.26,   298.80)   22.97      7.95    0.30    25.85
+             (    0.06,     0.12)    0.01      0.14    0.00     0.41
+ Chi^2 = 42.95086,  ndof = 606
+ Chi^2/nu = 0.071
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal300.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  299.35,   299.42)   22.25      2.56    0.98   -60.92
+             (    0.06,     0.06)    0.01      0.04    0.01    37.18
+ Chi^2 = 149.20209,  ndof = 590
+ Chi^2/nu = 0.253
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f814w_gal301.fits[1:601,1:601]
+Init. par. file : expdisk.sh
+Restart file    : galfit.01
+Output image    : imgblock.fits
+
+ expdisk   : (  300.10,   300.71)   21.52     17.95    0.63     7.19
+             (    0.06,     0.10)    0.01      0.22    0.00     0.55
+ Chi^2 = 185.31686,  ndof = 2049
+ Chi^2/nu = 0.090
+
+-----------------------------------------------------------------------------
