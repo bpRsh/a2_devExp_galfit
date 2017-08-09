@@ -1,0 +1,3926 @@
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal0.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  295.52,   306.69)   22.81    132.23   [4.00]   0.59   -83.15
+             (    0.19,     0.11)    0.03      5.66   [0.00]   0.01     0.62
+ Chi^2 = 2891.17538,  ndof = 6493
+ Chi^2/nu = 0.445 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal1.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  314.00,   308.36)   17.84   9696.04   [4.00]   0.77   -42.12
+             (    0.55,     0.48)    0.38   2223.12   [0.00]   0.04     5.75
+ Chi^2 = 1661.43918,  ndof = 3341
+ Chi^2/nu = 0.497 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal2.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.11,   311.67)   23.65     33.76   [4.00]   0.76    67.98
+             (    0.06,     0.04)    0.01      0.58   [0.00]   0.01     0.91
+ Chi^2 = 847.24380,  ndof = 5144
+ Chi^2/nu = 0.165 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal3.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  309.55,   304.25)   24.21     11.41   [4.00]   0.70   -28.87
+             (    0.02,     0.02)    0.00      0.14   [0.00]   0.01     0.72
+ Chi^2 = 217.52892,  ndof = 2578
+ Chi^2/nu = 0.084 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal4.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.88,   302.71)   23.12    138.80   [4.00]   0.42   -77.97
+             (    0.11,     0.06)    0.02      4.15   [0.00]   0.01     0.46
+ Chi^2 = 499.33540,  ndof = 3693
+ Chi^2/nu = 0.135 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal5.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  305.38,   297.01)   22.84     17.26   [4.00]   0.46    24.60
+             (    0.01,     0.02)    0.00      0.11   [0.00]   0.00     0.18
+ Chi^2 = 477.66004,  ndof = 6167
+ Chi^2/nu = 0.077 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal6.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.48,   303.11)   22.59     22.95   [4.00]   0.89   -78.35
+             (    0.02,     0.02)    0.00      0.13   [0.00]   0.00     0.93
+ Chi^2 = 1257.56818,  ndof = 12468
+ Chi^2/nu = 0.101 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal7.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  312.03,   296.28)   23.03    150.33   [4.00]   0.34    55.38
+             (    0.16,     0.12)    0.04      7.03   [0.00]   0.01     0.56
+ Chi^2 = 1345.10742,  ndof = 3911
+ Chi^2/nu = 0.344 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal8.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.66,   299.66)   24.18    106.71   [4.00]   0.61    26.46
+             (    0.12,     0.19)    0.05      7.79   [0.00]   0.01     1.46
+ Chi^2 = 918.97560,  ndof = 2738
+ Chi^2/nu = 0.336 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal9.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  310.66,   314.37)   23.03     97.94   [4.00]   0.87   -25.10
+             (    0.07,     0.09)    0.01      2.07   [0.00]   0.01     2.17
+ Chi^2 = 1049.87205,  ndof = 7687
+ Chi^2/nu = 0.137 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal10.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  310.97,   299.20)   22.76    291.30   [4.00]   0.57   -46.75
+             (    0.18,     0.19)    0.07     21.87   [0.00]   0.01     1.04
+ Chi^2 = 1469.16743,  ndof = 4059
+ Chi^2/nu = 0.362 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal11.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.29,   301.06)   23.77    119.24   [4.00]   0.19    69.11
+             (    0.12,     0.05)    0.02      3.50   [0.00]   0.00     0.19
+ Chi^2 = 266.29202,  ndof = 2571
+ Chi^2/nu = 0.104 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal12.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  289.79,   295.67)   17.38  18600.01   [4.00]   0.76    39.08
+             (    1.19,     1.10)    0.90   9749.26   [0.00]   0.12    16.76
+ Chi^2 = 983.25292,  ndof = 1759
+ Chi^2/nu = 0.559 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal13.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  292.64,   303.31)   25.47     17.41   [4.00]   0.56   -21.49
+             (    0.06,     0.08)    0.02      0.81   [0.00]   0.02     1.59
+ Chi^2 = 136.09532,  ndof = 941
+ Chi^2/nu = 0.145 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal14.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.77,   309.21)   24.51    105.78   [4.00]   0.23    -8.50
+             (    0.07,     0.19)    0.04      5.55   [0.00]   0.00     0.38
+ Chi^2 = 332.65086,  ndof = 2091
+ Chi^2/nu = 0.159 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal15.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.07,   301.30)   22.96    266.81   [4.00]   0.68    38.08
+             (    0.12,     0.16)    0.09     21.61   [0.00]   0.02     2.71
+ Chi^2 = 304.51449,  ndof = 1571
+ Chi^2/nu = 0.194 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal16.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.23,   298.88)   25.66     18.68   [4.00]   0.44    82.83
+             (    0.08,     0.05)    0.01      0.71   [0.00]   0.01     0.76
+ Chi^2 = 111.79708,  ndof = 951
+ Chi^2/nu = 0.118 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal17.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.81,   302.86)   23.50    179.09   [4.00]   0.43    72.27
+             (    0.19,     0.10)    0.08     15.00   [0.00]   0.02     1.28
+ Chi^2 = 207.11959,  ndof = 1163
+ Chi^2/nu = 0.178 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal18.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.26,   297.74)   25.95      8.42   [4.00]   0.54   -40.20
+             (    0.10,     0.10)    0.03      0.52   [0.00]   0.02     1.77
+ Chi^2 = 1027.32687,  ndof = 1613
+ Chi^2/nu = 0.637 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal19.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  296.09,   296.13)   22.27     37.03   [4.00]   0.46    83.13
+             (    0.05,     0.03)    0.01      0.55   [0.00]   0.00     0.37
+ Chi^2 = 1361.17360,  ndof = 5110
+ Chi^2/nu = 0.266 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal20.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  308.03,   300.94)   23.94    143.65   [4.00]   0.61    82.76
+             (    0.28,     0.19)    0.12     18.50   [0.00]   0.03     3.47
+ Chi^2 = 433.54306,  ndof = 1331
+ Chi^2/nu = 0.326 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal21.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.72,   300.16)   25.68     55.97   [4.00]   0.25   -57.73
+             (    0.13,     0.08)    0.05      3.70   [0.00]   0.01     0.60
+ Chi^2 = 135.50651,  ndof = 740
+ Chi^2/nu = 0.183 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal22.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.59,   297.65)   24.60      9.99   [4.00]   0.72   -57.19
+             (    0.03,     0.03)    0.01      0.18   [0.00]   0.01     1.22
+ Chi^2 = 560.63550,  ndof = 2272
+ Chi^2/nu = 0.247 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal23.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.35,   299.09)   26.07      3.64   [4.00]   0.66   -52.47
+             (    0.02,     0.02)    0.01      0.09   [0.00]   0.02     1.72
+ Chi^2 = 71.55834,  ndof = 637
+ Chi^2/nu = 0.112 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal24.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.55,   297.46)   24.91     24.85   [4.00]   0.54    87.29
+             (    0.04,     0.03)    0.01      0.45   [0.00]   0.01     0.52
+ Chi^2 = 93.25669,  ndof = 1433
+ Chi^2/nu = 0.065 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal25.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.17,   299.57)   24.50      1.16   [4.00]   0.75    -1.58
+             (    0.01,     0.01)    0.01      0.02   [0.00]   0.01     2.63
+ Chi^2 = 271.41020,  ndof = 956
+ Chi^2/nu = 0.284 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal26.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.15,   303.27)   22.96    159.91   [4.00]   0.97    27.94
+             (    0.13,     0.13)    0.06      9.97   [0.00]   0.03    35.64
+ Chi^2 = 670.90049,  ndof = 2145
+ Chi^2/nu = 0.313 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal27.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.58,   301.36)   24.11     58.69   [4.00]   0.92    84.76
+             (    0.09,     0.08)    0.06      3.62   [0.00]   0.03    13.80
+ Chi^2 = 159.93199,  ndof = 918
+ Chi^2/nu = 0.174 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal28.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  307.06,   300.26)   24.68     18.32   [4.00]   0.63    51.34
+             (    0.09,     0.07)    0.03      1.05   [0.00]   0.02     2.57
+ Chi^2 = 1114.12142,  ndof = 1366
+ Chi^2/nu = 0.816 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal29.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.00,   302.30)   24.87     20.01   [4.00]   0.37    -8.28
+             (    0.04,     0.07)    0.02      0.72   [0.00]   0.01     0.71
+ Chi^2 = 349.16870,  ndof = 1246
+ Chi^2/nu = 0.280 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal30.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.58,   300.54)   24.17    131.46   [4.00]   0.27    38.81
+             (    0.13,     0.16)    0.06      9.62   [0.00]   0.01     0.68
+ Chi^2 = 329.37074,  ndof = 1257
+ Chi^2/nu = 0.262 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal31.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.91,   301.72)   26.16     11.10   [4.00]   0.47   -59.37
+             (    0.08,     0.05)    0.04      0.84   [0.00]   0.03     2.15
+ Chi^2 = 49.43542,  ndof = 354
+ Chi^2/nu = 0.140 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal32.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.76,   302.38)   25.31     26.37   [4.00]   0.47    87.10
+             (    0.12,     0.08)    0.04      1.71   [0.00]   0.02     1.25
+ Chi^2 = 185.89965,  ndof = 761
+ Chi^2/nu = 0.244 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal33.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.38,   296.30)   24.71     69.16   [4.00]  *0.09*  -28.63
+             (    0.09,     0.16)    0.05      4.61   [0.00]  *0.00*    0.30
+ Chi^2 = 93.56785,  ndof = 712
+ Chi^2/nu = 0.131 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal34.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.79,   299.08)   25.06    117.42   [4.00]   0.19    49.96
+             (    0.22,     0.18)    0.16     19.31   [0.00]   0.01     0.99
+ Chi^2 = 56.62880,  ndof = 297
+ Chi^2/nu = 0.191 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal35.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.63,   299.30)   26.04     20.53   [4.00]   0.93   -48.90
+             (    0.10,     0.09)    0.06      1.91   [0.00]   0.05    24.60
+ Chi^2 = 44.56592,  ndof = 375
+ Chi^2/nu = 0.119 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal36.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.70,   299.32)   26.26      3.91   [4.00]   0.36    84.60
+             (    0.04,     0.03)    0.01      0.13   [0.00]   0.01     0.88
+ Chi^2 = 34.35382,  ndof = 425
+ Chi^2/nu = 0.081 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal37.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.16,   297.23)   26.64     14.88   [4.00]   0.20    41.36
+             (    0.07,     0.08)    0.02      0.84   [0.00]   0.01     0.54
+ Chi^2 = 49.94337,  ndof = 423
+ Chi^2/nu = 0.118 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal38.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.77,   297.29)   25.14    104.81   [4.00]   0.72    29.05
+             (    0.17,     0.24)    0.26     25.03   [0.00]   0.07     8.89
+ Chi^2 = 79.87827,  ndof = 299
+ Chi^2/nu = 0.267 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal39.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.32,   301.52)   25.20    178.37   [4.00]   0.16   -77.12
+             (    0.31,     0.07)    0.19     32.30   [0.00]   0.01     0.78
+ Chi^2 = 47.56922,  ndof = 254
+ Chi^2/nu = 0.187 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal40.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.24,   296.89)   25.60     93.61   [4.00]   0.18    17.22
+             (    0.09,     0.28)    0.10     10.94   [0.00]   0.01     0.68
+ Chi^2 = 100.43761,  ndof = 538
+ Chi^2/nu = 0.187 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal41.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  296.97,   301.38)   24.56     97.08   [4.00]   0.48    20.91
+             (    0.13,     0.22)    0.13     12.99   [0.00]   0.03     2.56
+ Chi^2 = 148.86707,  ndof = 637
+ Chi^2/nu = 0.234 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal42.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.07,   299.07)   26.45     34.24   [4.00]   0.32    79.64
+             (    0.19,     0.09)    0.07      3.66   [0.00]   0.01     1.31
+ Chi^2 = 61.98299,  ndof = 437
+ Chi^2/nu = 0.142 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal43.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.01,   298.59)   26.16     *0.20*  [4.00]   0.62   -40.82
+             (    0.04,     0.04)    0.02     *0.03*  [0.00]   0.24    18.44
+ Chi^2 = 88.58822,  ndof = 291
+ Chi^2/nu = 0.304 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal44.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  305.58,   296.88)   24.99    120.55   [4.00]   0.11    68.85
+             (    0.27,     0.11)    0.10     13.44   [0.00]   0.01     0.43
+ Chi^2 = 86.15151,  ndof = 483
+ Chi^2/nu = 0.178 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal45.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  295.31,   297.05)   26.25     13.02   [4.00]   0.27   -50.16
+             (    0.08,     0.07)    0.03      0.88   [0.00]   0.01     0.99
+ Chi^2 = 46.26533,  ndof = 319
+ Chi^2/nu = 0.145 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal46.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.59,   299.83)   25.83    109.35   [4.00]   0.13    31.67
+             (    0.18,     0.29)    0.19     21.96   [0.00]   0.01     0.81
+ Chi^2 = 45.24423,  ndof = 203
+ Chi^2/nu = 0.223 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal47.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.93,   299.36)   26.42      6.09   [4.00]   0.30   -71.68
+             (    0.05,     0.03)    0.02      0.21   [0.00]   0.01     0.64
+ Chi^2 = 46.08405,  ndof = 463
+ Chi^2/nu = 0.100 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal48.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.06,   299.64)   26.18     30.31   [4.00]   0.40   -83.79
+             (    0.15,     0.08)    0.08      3.29   [0.00]   0.02     1.83
+ Chi^2 = 41.33920,  ndof = 306
+ Chi^2/nu = 0.135 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal49.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.92,   300.11)   26.15      6.42   [4.00]   0.58   -13.80
+             (    0.04,     0.05)    0.01      0.24   [0.00]   0.02     1.61
+ Chi^2 = 68.26315,  ndof = 569
+ Chi^2/nu = 0.120 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal50.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.88,   302.25)   21.11   2040.95   [4.00]   0.74   -43.44
+             (    0.45,     0.48)    0.64    819.89   [0.00]   0.12    15.19
+ Chi^2 = 196.34047,  ndof = 496
+ Chi^2/nu = 0.396 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal51.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.56,   298.68)   26.21     58.42   [4.00]   0.24    82.39
+             (    0.24,     0.09)    0.11      9.02   [0.00]   0.01     0.91
+ Chi^2 = 71.53862,  ndof = 322
+ Chi^2/nu = 0.222 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal52.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.12,   303.24)   27.63     28.60   [4.00]   0.15   -18.18
+             (    0.08,     0.23)    0.09      4.30   [0.00]   0.01     0.98
+ Chi^2 = 28.95205,  ndof = 227
+ Chi^2/nu = 0.128 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal53.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.83,   299.06)   26.76      3.75   [4.00]   0.61   -69.57
+             (    0.05,     0.04)    0.02      0.20   [0.00]   0.03     2.83
+ Chi^2 = 29.06653,  ndof = 279
+ Chi^2/nu = 0.104 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal54.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.76,   294.39)   25.37    153.13   [4.00]  *0.08*    5.70
+             (    0.06,     0.44)    0.10     19.69   [0.00]  *0.00*    0.30
+ Chi^2 = 154.78987,  ndof = 609
+ Chi^2/nu = 0.254 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal55.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.03,   305.36)   19.21   7709.11   [4.00]   0.49   -19.40
+             (    0.56,     1.25)    0.87   4287.80   [0.00]   0.06     4.98
+ Chi^2 = 577.52065,  ndof = 1271
+ Chi^2/nu = 0.454 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal56.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.35,   297.59)   25.68    115.43   [4.00]  *0.10*   32.68
+             (    0.24,     0.36)    0.21     26.11   [0.00]  *0.01*    0.80
+ Chi^2 = 55.31570,  ndof = 215
+ Chi^2/nu = 0.257 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal57.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.00,   295.19)   25.03     22.76   [4.00]   0.44   -42.65
+             (    0.07,     0.08)    0.06      1.83   [0.00]   0.02     1.91
+ Chi^2 = 73.53179,  ndof = 435
+ Chi^2/nu = 0.169 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal58.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  311.24,   299.09)   23.38    185.39   [4.00]   0.12    71.74
+             (    0.19,     0.06)    0.03      7.30   [0.00]   0.00     0.17
+ Chi^2 = 353.86714,  ndof = 2429
+ Chi^2/nu = 0.146 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal59.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.46,   297.46)   25.67     31.73   [4.00]   0.56     0.87
+             (    0.07,     0.11)    0.05      2.26   [0.00]   0.02     1.71
+ Chi^2 = 57.77654,  ndof = 469
+ Chi^2/nu = 0.123 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal60.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.95,   296.17)   25.62     16.84   [4.00]   0.25     3.64
+             (    0.05,     0.09)    0.02      0.86   [0.00]   0.01     0.65
+ Chi^2 = 83.35692,  ndof = 566
+ Chi^2/nu = 0.147 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal61.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.79,   297.41)   24.66    134.08   [4.00]   0.62     9.67
+             (    0.13,     0.19)    0.19     23.97   [0.00]   0.03     3.21
+ Chi^2 = 79.79423,  ndof = 344
+ Chi^2/nu = 0.232 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal62.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.99,   298.81)   24.20    184.87   [4.00]   0.50    65.94
+             (    0.30,     0.17)    0.22     36.42   [0.00]   0.03     3.19
+ Chi^2 = 169.51514,  ndof = 510
+ Chi^2/nu = 0.332 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal63.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.89,   302.33)   25.59     41.91   [4.00]   0.16   -77.41
+             (    0.16,     0.05)    0.04      2.62   [0.00]   0.01     0.44
+ Chi^2 = 108.00829,  ndof = 714
+ Chi^2/nu = 0.151 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal64.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.08,   296.31)   23.93    181.41   [4.00]   0.84   -87.95
+             (    0.20,     0.17)    0.19     29.05   [0.00]   0.05     9.32
+ Chi^2 = 88.82737,  ndof = 447
+ Chi^2/nu = 0.199 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal65.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  305.73,   292.70)   24.63     90.81   [4.00]   0.21    30.77
+             (    0.09,     0.15)    0.05      5.57   [0.00]   0.00     0.41
+ Chi^2 = 130.20841,  ndof = 890
+ Chi^2/nu = 0.146 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal66.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.93,   300.63)   23.83    336.97   [4.00]   0.15    48.31
+             (    0.23,     0.21)    0.11     33.73   [0.00]   0.01     0.36
+ Chi^2 = 114.18459,  ndof = 697
+ Chi^2/nu = 0.164 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal67.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.65,   299.85)   27.17      7.48   [4.00]   0.64   -81.15
+             (    0.14,     0.11)    0.03      0.85   [0.00]   0.04     4.65
+ Chi^2 = 88.84783,  ndof = 307
+ Chi^2/nu = 0.289 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal68.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.34,   298.47)   26.66     21.10   [4.00]   0.22   -23.03
+             (    0.06,     0.15)    0.08      2.55   [0.00]   0.01     1.27
+ Chi^2 = 31.20047,  ndof = 216
+ Chi^2/nu = 0.144 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal69.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.81,   294.28)   23.74    501.97   [4.00]   0.13    42.44
+             (    0.34,     0.37)    0.25    104.97   [0.00]   0.01     0.70
+ Chi^2 = 102.07911,  ndof = 356
+ Chi^2/nu = 0.287 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal70.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.64,   299.44)   26.61      4.00   [4.00]   0.93   -84.08
+             (    0.03,     0.03)    0.01      0.12   [0.00]   0.02    10.38
+ Chi^2 = 24.71072,  ndof = 501
+ Chi^2/nu = 0.049 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal71.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.55,   298.25)   24.21     11.47   [4.00]   0.68   -28.79
+             (    0.02,     0.02)    0.00      0.14   [0.00]   0.01     0.63
+ Chi^2 = 136.76593,  ndof = 2118
+ Chi^2/nu = 0.065 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal72.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.82,   300.78)   23.27    366.48   [4.00]   0.65    -3.00
+             (    0.27,     0.40)    0.30     88.74   [0.00]   0.06     5.56
+ Chi^2 = 239.66754,  ndof = 681
+ Chi^2/nu = 0.352 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal73.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.15,   299.86)   26.01     27.94   [4.00]  *0.10*  -25.36
+             (    0.05,     0.11)    0.03      1.47   [0.00]  *0.00*    0.28
+ Chi^2 = 34.31681,  ndof = 407
+ Chi^2/nu = 0.084 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal74.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.45,   299.04)   24.12     44.97   [4.00]   0.65   -89.91
+             (    0.10,     0.07)    0.05      2.82   [0.00]   0.02     2.45
+ Chi^2 = 101.51384,  ndof = 687
+ Chi^2/nu = 0.148 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal75.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.59,   299.67)   26.20     24.22   [4.00]   0.35    39.51
+             (    0.08,     0.09)    0.07      2.31   [0.00]   0.02     1.53
+ Chi^2 = 23.43335,  ndof = 242
+ Chi^2/nu = 0.097 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal76.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.58,   302.00)   25.85     37.80   [4.00]   0.57   -43.59
+             (    0.12,     0.14)    0.11      5.59   [0.00]   0.04     3.69
+ Chi^2 = 71.96731,  ndof = 317
+ Chi^2/nu = 0.227 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal77.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.87,   299.57)   23.98    167.73   [4.00]   0.36   -58.75
+             (    0.21,     0.13)    0.12     20.38   [0.00]   0.01     1.19
+ Chi^2 = 157.73330,  ndof = 699
+ Chi^2/nu = 0.226 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal78.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.64,   300.05)   19.31   4160.60   [4.00]   0.71    -3.18
+             (    0.43,     0.53)    0.63   1639.16   [0.00]   0.06     7.21
+ Chi^2 = 399.69183,  ndof = 893
+ Chi^2/nu = 0.448 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal79.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.48,   296.20)   26.50     22.16   [4.00]   0.18    40.51
+             (    0.08,     0.09)    0.04      1.54   [0.00]   0.01     0.60
+ Chi^2 = 28.80373,  ndof = 313
+ Chi^2/nu = 0.092 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal80.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.77,   300.62)   22.42    643.00   [4.00]   0.32    64.34
+             (    0.42,     0.21)    0.25    126.35   [0.00]   0.02     1.73
+ Chi^2 = 267.52639,  ndof = 731
+ Chi^2/nu = 0.366 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal81.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.38,   301.81)   25.87     31.21   [4.00]   0.33    36.02
+             (    0.15,     0.20)    0.14      5.75   [0.00]   0.03     2.60
+ Chi^2 = 104.35297,  ndof = 259
+ Chi^2/nu = 0.403 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal82.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.45,   298.14)   26.49      7.72   [4.00]   0.72   -57.17
+             (    0.07,     0.06)    0.02      0.45   [0.00]   0.03     3.40
+ Chi^2 = 53.47082,  ndof = 378
+ Chi^2/nu = 0.141 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal83.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.70,   301.14)   25.76      3.28   [4.00]   0.50    49.07
+             (    0.07,     0.06)    0.03      0.30   [0.00]   0.04     3.45
+ Chi^2 = 280.86808,  ndof = 358
+ Chi^2/nu = 0.785 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal84.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.51,   297.51)   25.31     50.97   [4.00]   0.29   -13.93
+             (    0.10,     0.22)    0.17      9.71   [0.00]   0.03     2.28
+ Chi^2 = 46.95592,  ndof = 204
+ Chi^2/nu = 0.230 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal85.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.89,   298.24)   25.25    325.54   [4.00]  *0.04*  -63.86
+             (    0.85,     0.42)    0.28     91.32   [0.00]  *0.00*    0.41
+ Chi^2 = 86.26626,  ndof = 287
+ Chi^2/nu = 0.301 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal86.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.52,   301.73)   26.21      6.57   [4.00]   0.48   -16.76
+             (    0.05,     0.06)    0.02      0.35   [0.00]   0.02     1.67
+ Chi^2 = 47.05260,  ndof = 309
+ Chi^2/nu = 0.152 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal87.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.04,   296.60)   24.85    153.45   [4.00]   0.49   -57.97
+             (    0.18,     0.12)    0.23     30.97   [0.00]   0.03     2.48
+ Chi^2 = 52.91320,  ndof = 251
+ Chi^2/nu = 0.211 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal88.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.34,   294.99)   19.87   4987.46   [4.00]   0.59    53.42
+             (    0.63,     0.50)    1.01   3033.74   [0.00]   0.09     8.27
+ Chi^2 = 218.40752,  ndof = 415
+ Chi^2/nu = 0.526 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal89.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.51,   299.27)   25.64     31.57   [4.00]   0.64    59.39
+             (    0.09,     0.07)    0.05      2.12   [0.00]   0.03     2.63
+ Chi^2 = 45.76563,  ndof = 328
+ Chi^2/nu = 0.140 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal90.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.60,   303.73)   25.90     38.68   [4.00]   0.50    25.39
+             (    0.12,     0.20)    0.16      7.29   [0.00]   0.05     4.32
+ Chi^2 = 57.08233,  ndof = 233
+ Chi^2/nu = 0.245 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal91.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.13,   300.89)   24.62     63.31   [4.00]   0.79    35.62
+             (    0.10,     0.12)    0.06      4.56   [0.00]   0.03     4.02
+ Chi^2 = 223.31061,  ndof = 1054
+ Chi^2/nu = 0.212 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal92.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.87,   302.99)   25.67     76.48   [4.00]   0.16    46.79
+             (    0.25,     0.23)    0.16     14.46   [0.00]   0.01     1.17
+ Chi^2 = 64.24563,  ndof = 262
+ Chi^2/nu = 0.245 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal93.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.08,   299.54)   26.31     *0.14*  [4.00]   0.34    -7.44
+             (    0.15,     0.06)    0.02     *0.04*  [0.00]   0.42    25.84
+ Chi^2 = 60.00077,  ndof = 135
+ Chi^2/nu = 0.444 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal94.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.35,   300.05)   23.27    296.98   [4.00]   0.66    88.95
+             (    0.25,     0.16)    0.20     49.17   [0.00]   0.03     3.59
+ Chi^2 = 140.52465,  ndof = 614
+ Chi^2/nu = 0.229 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal95.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.42,   298.51)   21.27   3229.30   [4.00]   0.16   -65.68
+             (    0.96,     0.45)    0.77   1674.14   [0.00]   0.02     1.19
+ Chi^2 = 279.71778,  ndof = 500
+ Chi^2/nu = 0.559 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal96.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.82,   299.12)   26.51     28.49   [4.00]   0.39   -89.65
+             (    0.19,     0.10)    0.06      3.26   [0.00]   0.02     1.51
+ Chi^2 = 90.65175,  ndof = 420
+ Chi^2/nu = 0.216 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal97.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.48,   297.98)   27.22      7.92   [4.00]   0.80    31.33
+             (    0.04,     0.05)    0.02      0.47   [0.00]   0.03     4.69
+ Chi^2 = 11.13309,  ndof = 201
+ Chi^2/nu = 0.055 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal98.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.78,   296.66)   24.70     57.99   [4.00]   0.32    -7.23
+             (    0.07,     0.14)    0.04      3.63   [0.00]   0.01     0.77
+ Chi^2 = 157.79862,  ndof = 944
+ Chi^2/nu = 0.167 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal99.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.98,   298.82)   26.48     19.87   [4.00]   0.33    48.98
+             (    0.09,     0.08)    0.03      1.29   [0.00]   0.01     0.73
+ Chi^2 = 60.89166,  ndof = 448
+ Chi^2/nu = 0.136 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal100.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.48,   300.86)   27.03      3.88   [4.00]   0.28    68.83
+             (    0.06,     0.03)    0.02      0.23   [0.00]   0.02     1.27
+ Chi^2 = 19.89970,  ndof = 195
+ Chi^2/nu = 0.102 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal101.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  295.51,   306.68)   19.47    133.59   [4.00]   0.59   -83.22
+             (    0.19,     0.11)    0.03      5.72   [0.00]   0.01     0.62
+ Chi^2 = 2878.49758,  ndof = 6488
+ Chi^2/nu = 0.444 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal102.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  314.10,   308.32)   14.42  10084.05   [4.00]   0.78   -42.32
+             (    0.55,     0.48)    0.38   2313.63   [0.00]   0.04     6.08
+ Chi^2 = 1650.38294,  ndof = 3336
+ Chi^2/nu = 0.495 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal103.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.12,   311.67)   20.31     34.06   [4.00]   0.76    67.82
+             (    0.06,     0.04)    0.01      0.58   [0.00]   0.01     0.90
+ Chi^2 = 831.90678,  ndof = 5123
+ Chi^2/nu = 0.162 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal104.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  309.55,   304.25)   20.87     11.41   [4.00]   0.70   -28.87
+             (    0.02,     0.02)    0.00      0.14   [0.00]   0.01     0.72
+ Chi^2 = 217.52926,  ndof = 2578
+ Chi^2/nu = 0.084 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal105.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.88,   302.71)   19.78    138.80   [4.00]   0.42   -77.97
+             (    0.11,     0.06)    0.02      4.15   [0.00]   0.01     0.46
+ Chi^2 = 499.33520,  ndof = 3693
+ Chi^2/nu = 0.135 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal106.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  305.38,   297.01)   19.50     17.36   [4.00]   0.46    24.60
+             (    0.01,     0.02)    0.00      0.11   [0.00]   0.00     0.18
+ Chi^2 = 461.75696,  ndof = 6124
+ Chi^2/nu = 0.075 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal107.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.48,   303.11)   19.25     23.04   [4.00]   0.89   -78.31
+             (    0.02,     0.02)    0.00      0.13   [0.00]   0.00     0.92
+ Chi^2 = 1227.08310,  ndof = 12420
+ Chi^2/nu = 0.099 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal108.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  312.04,   296.28)   19.67    152.60   [4.00]   0.34    55.38
+             (    0.16,     0.12)    0.04      7.16   [0.00]   0.01     0.56
+ Chi^2 = 1333.39771,  ndof = 3894
+ Chi^2/nu = 0.342 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal109.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.66,   299.66)   20.84    106.71   [4.00]   0.61    26.46
+             (    0.12,     0.19)    0.05      7.79   [0.00]   0.01     1.46
+ Chi^2 = 918.97560,  ndof = 2738
+ Chi^2/nu = 0.336 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal110.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  310.62,   314.25)   19.71    106.46   [4.00]   0.68    -8.56
+             (    0.06,     0.09)    0.01      2.21   [0.00]   0.01     0.75
+ Chi^2 = 955.44989,  ndof = 7665
+ Chi^2/nu = 0.125 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal111.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  310.95,   299.18)   19.40    298.87   [4.00]   0.57   -46.72
+             (    0.18,     0.19)    0.07     22.56   [0.00]   0.01     1.04
+ Chi^2 = 1466.99189,  ndof = 4054
+ Chi^2/nu = 0.362 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal112.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.28,   301.05)   20.41    120.68   [4.00]   0.19    69.14
+             (    0.12,     0.05)    0.02      3.50   [0.00]   0.00     0.19
+ Chi^2 = 257.43526,  ndof = 2558
+ Chi^2/nu = 0.101 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal113.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  291.37,   294.74)   14.60  11831.32   [4.00]   0.92    73.93
+             (    1.03,     0.73)    0.73   4948.00   [0.00]   0.12    42.76
+ Chi^2 = 934.49066,  ndof = 1686
+ Chi^2/nu = 0.554 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal114.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  292.64,   303.33)   22.09     18.16   [4.00]   0.56   -21.91
+             (    0.06,     0.08)    0.02      0.83   [0.00]   0.02     1.57
+ Chi^2 = 127.42827,  ndof = 916
+ Chi^2/nu = 0.139 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal115.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.79,   309.19)   21.04    118.75   [4.00]   0.23    -8.61
+             (    0.06,     0.19)    0.04      6.12   [0.00]   0.00     0.36
+ Chi^2 = 298.26658,  ndof = 2013
+ Chi^2/nu = 0.148 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal116.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.08,   301.25)   19.59    272.43   [4.00]   0.68    37.78
+             (    0.12,     0.16)    0.09     22.11   [0.00]   0.02     2.71
+ Chi^2 = 301.98690,  ndof = 1563
+ Chi^2/nu = 0.193 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal117.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.22,   298.88)   22.29     19.46   [4.00]   0.44    82.71
+             (    0.08,     0.05)    0.01      0.51   [0.00]   0.01     0.51
+ Chi^2 = 99.83772,  ndof = 934
+ Chi^2/nu = 0.107 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal118.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.81,   302.84)   20.15    179.75   [4.00]   0.44    72.19
+             (    0.19,     0.10)    0.08     15.02   [0.00]   0.02     1.29
+ Chi^2 = 205.89277,  ndof = 1160
+ Chi^2/nu = 0.177 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal119.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.18,   297.77)   22.47     13.48   [4.00]   0.59   -38.18
+             (    0.12,     0.13)    0.02      1.05   [0.00]   0.02     1.83
+ Chi^2 = 983.67470,  ndof = 1453
+ Chi^2/nu = 0.677 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal120.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  296.09,   296.13)   18.93     37.03   [4.00]   0.46    83.13
+             (    0.05,     0.03)    0.01      0.55   [0.00]   0.00     0.37
+ Chi^2 = 1361.50139,  ndof = 5109
+ Chi^2/nu = 0.266 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal121.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  308.01,   301.08)   20.29    180.40   [4.00]   0.62    86.00
+             (    0.29,     0.19)    0.13     23.60   [0.00]   0.03     3.55
+ Chi^2 = 410.70072,  ndof = 1266
+ Chi^2/nu = 0.324 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal122.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.72,   300.16)   22.35     55.97   [4.00]   0.25   -57.73
+             (    0.13,     0.08)    0.05      3.70   [0.00]   0.01     0.60
+ Chi^2 = 135.50651,  ndof = 740
+ Chi^2/nu = 0.183 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal123.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.59,   297.65)   21.26      9.99   [4.00]   0.72   -57.18
+             (    0.03,     0.03)    0.01      0.18   [0.00]   0.01     1.22
+ Chi^2 = 557.25332,  ndof = 2267
+ Chi^2/nu = 0.246 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal124.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.35,   299.09)   22.73      3.64   [4.00]   0.66   -52.47
+             (    0.02,     0.02)    0.01      0.09   [0.00]   0.02     1.72
+ Chi^2 = 71.55801,  ndof = 637
+ Chi^2/nu = 0.112 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal125.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.55,   297.46)   21.57     24.86   [4.00]   0.54    87.30
+             (    0.04,     0.03)    0.01      0.45   [0.00]   0.01     0.52
+ Chi^2 = 92.94100,  ndof = 1432
+ Chi^2/nu = 0.065 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal126.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.17,   299.57)   21.16      1.15   [4.00]   0.75    -1.57
+             (    0.01,     0.01)    0.01      0.02   [0.00]   0.02     2.66
+ Chi^2 = 271.40220,  ndof = 956
+ Chi^2/nu = 0.284 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal127.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.13,   303.28)   19.60    163.30   [4.00]   0.97    30.45
+             (    0.12,     0.12)    0.06     10.19   [0.00]   0.03    27.84
+ Chi^2 = 667.18017,  ndof = 2134
+ Chi^2/nu = 0.313 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal128.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.58,   301.36)   20.76     59.11   [4.00]   0.92    83.36
+             (    0.09,     0.08)    0.06      3.63   [0.00]   0.03    13.87
+ Chi^2 = 158.40629,  ndof = 915
+ Chi^2/nu = 0.173 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal129.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  307.04,   300.28)   21.32     18.69   [4.00]   0.63    51.74
+             (    0.09,     0.07)    0.03      1.07   [0.00]   0.02     2.58
+ Chi^2 = 1099.30022,  ndof = 1353
+ Chi^2/nu = 0.812 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal130.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.00,   302.31)   21.53     20.00   [4.00]   0.37    -8.44
+             (    0.04,     0.07)    0.02      0.72   [0.00]   0.01     0.70
+ Chi^2 = 349.15744,  ndof = 1246
+ Chi^2/nu = 0.280 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal131.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.58,   300.54)   20.84    131.45   [4.00]   0.27    38.81
+             (    0.13,     0.16)    0.06      9.62   [0.00]   0.01     0.68
+ Chi^2 = 329.37072,  ndof = 1257
+ Chi^2/nu = 0.262 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal132.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.92,   301.73)   22.83     11.07   [4.00]   0.47   -59.33
+             (    0.08,     0.05)    0.04      0.84   [0.00]   0.03     2.15
+ Chi^2 = 49.43424,  ndof = 354
+ Chi^2/nu = 0.140 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal133.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.76,   302.38)   21.97     26.37   [4.00]   0.47    87.11
+             (    0.12,     0.08)    0.04      1.71   [0.00]   0.02     1.25
+ Chi^2 = 185.89960,  ndof = 761
+ Chi^2/nu = 0.244 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal134.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.37,   296.29)   21.37     69.22   [4.00]  *0.09*  -28.62
+             (    0.09,     0.16)    0.05      4.62   [0.00]  *0.00*    0.29
+ Chi^2 = 93.57028,  ndof = 712
+ Chi^2/nu = 0.131 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal135.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.79,   299.09)   21.73    117.27   [4.00]   0.19    49.95
+             (    0.22,     0.18)    0.16     19.27   [0.00]   0.01     0.99
+ Chi^2 = 56.62874,  ndof = 297
+ Chi^2/nu = 0.191 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal136.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.63,   299.30)   22.70     20.53   [4.00]   0.93   -48.90
+             (    0.10,     0.09)    0.06      1.91   [0.00]   0.05    24.60
+ Chi^2 = 44.56591,  ndof = 375
+ Chi^2/nu = 0.119 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal137.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.70,   299.32)   22.92      3.91   [4.00]   0.36    84.59
+             (    0.04,     0.03)    0.01      0.13   [0.00]   0.01     0.88
+ Chi^2 = 34.35507,  ndof = 425
+ Chi^2/nu = 0.081 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal138.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.16,   297.23)   23.30     14.90   [4.00]   0.20    41.39
+             (    0.08,     0.08)    0.02      0.84   [0.00]   0.01     0.54
+ Chi^2 = 49.94382,  ndof = 423
+ Chi^2/nu = 0.118 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal139.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.77,   297.30)   21.80    104.81   [4.00]   0.72    29.05
+             (    0.17,     0.24)    0.26     25.03   [0.00]   0.07     8.89
+ Chi^2 = 79.87827,  ndof = 299
+ Chi^2/nu = 0.267 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal140.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.32,   301.52)   21.86    178.38   [4.00]   0.16   -77.12
+             (    0.31,     0.07)    0.19     32.30   [0.00]   0.01     0.78
+ Chi^2 = 47.56922,  ndof = 254
+ Chi^2/nu = 0.187 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal141.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.24,   296.90)   22.26     93.62   [4.00]   0.18    17.22
+             (    0.09,     0.28)    0.10     10.94   [0.00]   0.01     0.68
+ Chi^2 = 100.43750,  ndof = 538
+ Chi^2/nu = 0.187 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal142.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  296.98,   301.39)   21.22     97.08   [4.00]   0.48    20.91
+             (    0.13,     0.22)    0.13     12.99   [0.00]   0.03     2.56
+ Chi^2 = 148.87153,  ndof = 637
+ Chi^2/nu = 0.234 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal143.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.07,   299.07)   23.11     34.24   [4.00]   0.32    79.64
+             (    0.19,     0.09)    0.07      3.66   [0.00]   0.01     1.31
+ Chi^2 = 61.98299,  ndof = 437
+ Chi^2/nu = 0.142 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal144.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.00,   298.56)   22.77     *0.01*  [4.00]   0.60   -70.88
+             (    1.45,     3.99)    4.95     *0.23*  [0.00]  45.56  4878.45
+ Chi^2 = 105.33823,  ndof = 291
+ Chi^2/nu = 0.362 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal145.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  305.58,   296.88)   21.65    120.33   [4.00]   0.11    68.85
+             (    0.27,     0.11)    0.10     13.40   [0.00]   0.01     0.43
+ Chi^2 = 86.15169,  ndof = 483
+ Chi^2/nu = 0.178 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal146.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  295.31,   297.05)   22.91     13.02   [4.00]   0.27   -50.17
+             (    0.08,     0.07)    0.03      0.88   [0.00]   0.01     0.99
+ Chi^2 = 46.26535,  ndof = 319
+ Chi^2/nu = 0.145 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal147.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.59,   299.83)   22.49    109.33   [4.00]   0.13    31.67
+             (    0.18,     0.29)    0.19     21.96   [0.00]   0.01     0.81
+ Chi^2 = 45.24422,  ndof = 203
+ Chi^2/nu = 0.223 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal148.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.93,   299.36)   23.08      6.09   [4.00]   0.30   -71.68
+             (    0.05,     0.03)    0.02      0.21   [0.00]   0.01     0.64
+ Chi^2 = 46.08405,  ndof = 463
+ Chi^2/nu = 0.100 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal149.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.06,   299.64)   22.84     30.31   [4.00]   0.40   -83.79
+             (    0.15,     0.08)    0.08      3.29   [0.00]   0.02     1.83
+ Chi^2 = 41.33920,  ndof = 306
+ Chi^2/nu = 0.135 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal150.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.92,   300.11)   22.81      6.42   [4.00]   0.58   -13.82
+             (    0.04,     0.05)    0.01      0.24   [0.00]   0.02     1.61
+ Chi^2 = 68.26356,  ndof = 569
+ Chi^2/nu = 0.120 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal151.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.89,   302.25)   17.77   2040.13   [4.00]   0.74   -43.54
+             (    0.45,     0.48)    0.64    819.51   [0.00]   0.12    15.19
+ Chi^2 = 196.34044,  ndof = 496
+ Chi^2/nu = 0.396 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal152.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.56,   298.68)   22.87     58.41   [4.00]   0.24    82.40
+             (    0.24,     0.09)    0.11      9.02   [0.00]   0.01     0.91
+ Chi^2 = 71.53867,  ndof = 322
+ Chi^2/nu = 0.222 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal153.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.11,   303.23)   24.29     28.61   [4.00]   0.15   -18.18
+             (    0.08,     0.23)    0.09      4.30   [0.00]   0.01     0.98
+ Chi^2 = 28.95218,  ndof = 227
+ Chi^2/nu = 0.128 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal154.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.82,   299.06)   23.42      3.75   [4.00]   0.61   -69.56
+             (    0.05,     0.04)    0.02      0.20   [0.00]   0.03     2.83
+ Chi^2 = 29.06663,  ndof = 279
+ Chi^2/nu = 0.104 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal155.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.76,   294.39)   22.03    153.21   [4.00]  *0.08*    5.71
+             (    0.06,     0.44)    0.10     19.71   [0.00]  *0.00*    0.30
+ Chi^2 = 154.78960,  ndof = 609
+ Chi^2/nu = 0.254 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal156.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.05,   305.39)   16.11   6650.66   [4.00]   0.50   -19.36
+             (    0.54,     1.19)    0.83   3537.30   [0.00]   0.06     4.94
+ Chi^2 = 577.54437,  ndof = 1271
+ Chi^2/nu = 0.454 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal157.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.35,   297.59)   22.34    115.43   [4.00]  *0.10*   32.68
+             (    0.24,     0.36)    0.21     26.11   [0.00]  *0.01*    0.80
+ Chi^2 = 55.31569,  ndof = 215
+ Chi^2/nu = 0.257 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal158.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.99,   295.18)   21.69     22.74   [4.00]   0.44   -42.65
+             (    0.07,     0.08)    0.06      1.83   [0.00]   0.02     1.92
+ Chi^2 = 73.53095,  ndof = 435
+ Chi^2/nu = 0.169 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal159.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  311.24,   299.09)   20.04    185.49   [4.00]   0.12    71.74
+             (    0.19,     0.06)    0.03      7.31   [0.00]   0.00     0.17
+ Chi^2 = 353.86701,  ndof = 2429
+ Chi^2/nu = 0.146 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal160.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.46,   297.46)   22.33     31.73   [4.00]   0.56     0.87
+             (    0.07,     0.11)    0.05      2.26   [0.00]   0.02     1.71
+ Chi^2 = 57.77654,  ndof = 469
+ Chi^2/nu = 0.123 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal161.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.95,   296.17)   22.28     16.85   [4.00]   0.25     3.64
+             (    0.05,     0.09)    0.02      0.86   [0.00]   0.01     0.65
+ Chi^2 = 83.35674,  ndof = 566
+ Chi^2/nu = 0.147 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal162.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.79,   297.41)   21.32    134.08   [4.00]   0.62     9.67
+             (    0.13,     0.19)    0.19     23.97   [0.00]   0.03     3.21
+ Chi^2 = 79.79424,  ndof = 344
+ Chi^2/nu = 0.232 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal163.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.99,   298.81)   20.86    184.87   [4.00]   0.50    65.94
+             (    0.30,     0.17)    0.22     36.42   [0.00]   0.03     3.19
+ Chi^2 = 169.51514,  ndof = 510
+ Chi^2/nu = 0.332 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal164.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.89,   302.33)   22.25     41.91   [4.00]   0.16   -77.41
+             (    0.16,     0.05)    0.04      2.62   [0.00]   0.01     0.44
+ Chi^2 = 108.00829,  ndof = 714
+ Chi^2/nu = 0.151 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal165.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.08,   296.31)   20.59    181.40   [4.00]   0.84   -87.95
+             (    0.20,     0.17)    0.19     29.05   [0.00]   0.05     9.32
+ Chi^2 = 88.82736,  ndof = 447
+ Chi^2/nu = 0.199 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal166.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  305.73,   292.70)   21.29     90.81   [4.00]   0.21    30.77
+             (    0.09,     0.15)    0.05      5.57   [0.00]   0.00     0.41
+ Chi^2 = 130.20840,  ndof = 890
+ Chi^2/nu = 0.146 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal167.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.93,   300.63)   20.49    336.98   [4.00]   0.15    48.31
+             (    0.23,     0.21)    0.11     33.73   [0.00]   0.01     0.36
+ Chi^2 = 114.18459,  ndof = 697
+ Chi^2/nu = 0.164 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal168.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.66,   299.86)   23.83      7.43   [4.00]   0.64   -81.21
+             (    0.14,     0.11)    0.03      0.84   [0.00]   0.04     4.63
+ Chi^2 = 88.84000,  ndof = 307
+ Chi^2/nu = 0.289 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal169.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.34,   298.47)   23.32     21.11   [4.00]   0.22   -23.03
+             (    0.06,     0.15)    0.08      2.56   [0.00]   0.01     1.27
+ Chi^2 = 31.20048,  ndof = 216
+ Chi^2/nu = 0.144 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal170.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.81,   294.28)   20.40    501.98   [4.00]   0.13    42.44
+             (    0.34,     0.37)    0.25    104.97   [0.00]   0.01     0.70
+ Chi^2 = 102.07912,  ndof = 356
+ Chi^2/nu = 0.287 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal171.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.64,   299.44)   23.27      4.00   [4.00]   0.93   -84.03
+             (    0.03,     0.03)    0.01      0.12   [0.00]   0.02    10.38
+ Chi^2 = 24.71058,  ndof = 501
+ Chi^2/nu = 0.049 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal172.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.55,   298.26)   20.87     11.47   [4.00]   0.68   -28.79
+             (    0.02,     0.02)    0.00      0.14   [0.00]   0.01     0.63
+ Chi^2 = 136.76567,  ndof = 2118
+ Chi^2/nu = 0.065 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal173.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.82,   300.78)   19.93    366.46   [4.00]   0.65    -3.00
+             (    0.27,     0.40)    0.30     88.73   [0.00]   0.06     5.56
+ Chi^2 = 239.66754,  ndof = 681
+ Chi^2/nu = 0.352 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal174.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.15,   299.87)   22.68     27.97   [4.00]  *0.10*  -25.36
+             (    0.05,     0.11)    0.03      1.48   [0.00]  *0.00*    0.28
+ Chi^2 = 34.31473,  ndof = 407
+ Chi^2/nu = 0.084 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal175.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.45,   299.04)   20.78     44.98   [4.00]   0.65   -89.92
+             (    0.10,     0.07)    0.05      2.82   [0.00]   0.02     2.45
+ Chi^2 = 101.51361,  ndof = 687
+ Chi^2/nu = 0.148 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal176.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.59,   299.67)   22.87     24.19   [4.00]   0.35    39.52
+             (    0.08,     0.09)    0.07      2.31   [0.00]   0.02     1.53
+ Chi^2 = 23.43333,  ndof = 242
+ Chi^2/nu = 0.097 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal177.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.58,   302.00)   22.51     37.79   [4.00]   0.57   -43.60
+             (    0.12,     0.14)    0.11      5.59   [0.00]   0.04     3.69
+ Chi^2 = 71.96731,  ndof = 317
+ Chi^2/nu = 0.227 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal178.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.87,   299.57)   20.65    167.73   [4.00]   0.36   -58.75
+             (    0.21,     0.13)    0.12     20.38   [0.00]   0.01     1.19
+ Chi^2 = 157.73330,  ndof = 699
+ Chi^2/nu = 0.226 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal179.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.64,   300.04)   16.01   4068.01   [4.00]   0.71    -3.17
+             (    0.43,     0.53)    0.62   1589.89   [0.00]   0.06     7.21
+ Chi^2 = 399.69929,  ndof = 893
+ Chi^2/nu = 0.448 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal180.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.48,   296.20)   23.16     22.15   [4.00]   0.18    40.51
+             (    0.08,     0.09)    0.04      1.54   [0.00]   0.01     0.60
+ Chi^2 = 28.80364,  ndof = 313
+ Chi^2/nu = 0.092 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal181.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.77,   300.62)   19.08    643.00   [4.00]   0.32    64.34
+             (    0.42,     0.21)    0.25    126.36   [0.00]   0.02     1.73
+ Chi^2 = 267.52639,  ndof = 731
+ Chi^2/nu = 0.366 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal182.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.38,   301.81)   22.53     31.21   [4.00]   0.33    36.03
+             (    0.15,     0.20)    0.14      5.75   [0.00]   0.03     2.60
+ Chi^2 = 104.35296,  ndof = 259
+ Chi^2/nu = 0.403 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal183.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.45,   298.14)   23.15      7.72   [4.00]   0.72   -57.15
+             (    0.07,     0.06)    0.02      0.45   [0.00]   0.03     3.39
+ Chi^2 = 53.47094,  ndof = 378
+ Chi^2/nu = 0.141 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal184.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.71,   301.13)   22.42      3.30   [4.00]   0.49    49.05
+             (    0.07,     0.06)    0.03      0.30   [0.00]   0.04     3.43
+ Chi^2 = 280.88337,  ndof = 358
+ Chi^2/nu = 0.785 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal185.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.51,   297.51)   21.98     50.97   [4.00]   0.29   -13.93
+             (    0.10,     0.22)    0.17      9.71   [0.00]   0.03     2.28
+ Chi^2 = 46.95592,  ndof = 204
+ Chi^2/nu = 0.230 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal186.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.89,   298.24)   21.91    325.54   [4.00]  *0.04*  -63.86
+             (    0.85,     0.42)    0.28     91.32   [0.00]  *0.00*    0.41
+ Chi^2 = 86.26626,  ndof = 287
+ Chi^2/nu = 0.301 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal187.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.52,   301.73)   22.87      6.57   [4.00]   0.48   -16.76
+             (    0.05,     0.06)    0.02      0.35   [0.00]   0.02     1.67
+ Chi^2 = 47.05256,  ndof = 309
+ Chi^2/nu = 0.152 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal188.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.04,   296.60)   21.51    153.43   [4.00]   0.49   -57.97
+             (    0.18,     0.12)    0.23     30.97   [0.00]   0.03     2.48
+ Chi^2 = 52.91320,  ndof = 251
+ Chi^2/nu = 0.211 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal189.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.42,   294.98)   17.00   3737.73   [4.00]   0.60    54.21
+             (    0.58,     0.45)    0.91   2094.49   [0.00]   0.09     8.07
+ Chi^2 = 219.34608,  ndof = 415
+ Chi^2/nu = 0.529 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal190.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.51,   299.27)   22.30     31.58   [4.00]   0.64    59.40
+             (    0.09,     0.07)    0.05      2.12   [0.00]   0.03     2.63
+ Chi^2 = 45.76557,  ndof = 328
+ Chi^2/nu = 0.140 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal191.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.60,   303.73)   22.56     38.68   [4.00]   0.50    25.37
+             (    0.12,     0.20)    0.16      7.29   [0.00]   0.05     4.32
+ Chi^2 = 57.08241,  ndof = 233
+ Chi^2/nu = 0.245 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal192.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.13,   300.89)   21.28     63.27   [4.00]   0.79    35.74
+             (    0.10,     0.12)    0.06      4.52   [0.00]   0.03     3.99
+ Chi^2 = 223.31076,  ndof = 1054
+ Chi^2/nu = 0.212 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal193.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.87,   302.99)   22.33     76.49   [4.00]   0.16    46.80
+             (    0.25,     0.23)    0.16     14.47   [0.00]   0.01     1.17
+ Chi^2 = 64.24568,  ndof = 262
+ Chi^2/nu = 0.245 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal194.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.96,   299.59)   23.00     *0.01*  [4.00]   0.63   -71.70
+             (    2.77,     7.39)    9.68     *0.42*  [0.00]  88.54 10728.55
+ Chi^2 = 88.22433,  ndof = 135
+ Chi^2/nu = 0.654 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal195.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.35,   300.05)   19.93    296.98   [4.00]   0.66    88.95
+             (    0.25,     0.16)    0.20     49.17   [0.00]   0.03     3.59
+ Chi^2 = 140.52465,  ndof = 614
+ Chi^2/nu = 0.229 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal196.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.42,   298.51)   17.93   3229.73   [4.00]   0.16   -65.68
+             (    0.96,     0.45)    0.77   1674.42   [0.00]   0.02     1.19
+ Chi^2 = 279.71777,  ndof = 500
+ Chi^2/nu = 0.559 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal197.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.82,   299.12)   23.17     28.50   [4.00]   0.39   -89.64
+             (    0.19,     0.10)    0.06      3.26   [0.00]   0.02     1.52
+ Chi^2 = 90.65206,  ndof = 420
+ Chi^2/nu = 0.216 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal198.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.48,   297.98)   23.88      7.92   [4.00]   0.80    31.36
+             (    0.04,     0.05)    0.02      0.47   [0.00]   0.03     4.69
+ Chi^2 = 11.13309,  ndof = 201
+ Chi^2/nu = 0.055 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal199.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.78,   296.66)   21.37     58.00   [4.00]   0.32    -7.23
+             (    0.07,     0.14)    0.04      3.63   [0.00]   0.01     0.77
+ Chi^2 = 157.79881,  ndof = 944
+ Chi^2/nu = 0.167 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal200.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.98,   298.82)   23.14     19.88   [4.00]   0.33    48.98
+             (    0.09,     0.08)    0.03      1.29   [0.00]   0.01     0.73
+ Chi^2 = 60.89164,  ndof = 448
+ Chi^2/nu = 0.136 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal201.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.48,   300.86)   23.69      3.87   [4.00]   0.29    68.83
+             (    0.06,     0.03)    0.02      0.23   [0.00]   0.02     1.27
+ Chi^2 = 19.90000,  ndof = 195
+ Chi^2/nu = 0.102 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal202.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.44,   301.00)   23.68     15.32   [4.00]   0.12    19.04
+             (    0.05,     0.14)    0.05      1.56   [0.00]   0.01     0.74
+ Chi^2 = 25.67570,  ndof = 194
+ Chi^2/nu = 0.132 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal203.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.55,   300.14)   19.14    856.42   [4.00]   0.71    39.84
+             (    0.33,     0.45)    0.62    375.35   [0.00]   0.08     9.64
+ Chi^2 = 237.96907,  ndof = 491
+ Chi^2/nu = 0.485 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal204.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.73,   301.45)   23.88      7.78   [4.00]   0.64   -12.86
+             (    0.12,     0.15)    0.03      0.94   [0.00]   0.04     4.62
+ Chi^2 = 113.95152,  ndof = 318
+ Chi^2/nu = 0.358 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal205.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.89,   297.94)   22.11     73.62   [4.00]   0.15    70.84
+             (    0.36,     0.13)    0.24     19.73   [0.00]   0.02     1.59
+ Chi^2 = 74.58316,  ndof = 201
+ Chi^2/nu = 0.371 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal206.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  296.88,   298.67)   20.16    383.95   [4.00]   0.75    -5.44
+             (    0.27,     0.37)    0.41    121.39   [0.00]   0.06     9.01
+ Chi^2 = 159.59437,  ndof = 437
+ Chi^2/nu = 0.365 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal207.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.85,   299.45)   23.82      7.51   [4.00]   0.17   -63.29
+             (    0.11,     0.06)    0.06      0.97   [0.00]   0.02     1.59
+ Chi^2 = 26.09845,  ndof = 121
+ Chi^2/nu = 0.216 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal208.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.33,   299.79)   24.13     11.41   [4.00]   0.40    26.79
+             (    0.06,     0.10)    0.07      1.40   [0.00]   0.03     2.47
+ Chi^2 = 14.46295,  ndof = 138
+ Chi^2/nu = 0.105 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal209.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.18,   303.62)   24.17     10.54   [4.00]   0.34     0.33
+             (    0.10,     0.16)    0.10      1.93   [0.00]   0.04     3.23
+ Chi^2 = 25.16554,  ndof = 122
+ Chi^2/nu = 0.206 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal210.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.74,   301.69)   23.08      4.97   [4.00]   0.58    30.89
+             (    0.05,     0.07)    0.03      0.42   [0.00]   0.04     3.90
+ Chi^2 = 71.48449,  ndof = 305
+ Chi^2/nu = 0.234 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal211.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.09,   301.32)   21.54     *0.01*  [4.00]   0.57   -66.68
+             (    1.82,     4.73)    6.87     *0.31*  [0.00]  60.86  4762.67
+ Chi^2 = 362.54792,  ndof = 258
+ Chi^2/nu = 1.405 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal212.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.80,   294.59)   15.72   7968.50   [4.00]   0.54    47.78
+             (    0.65,     0.61)    1.13   5354.38   [0.00]   0.10     7.91
+ Chi^2 = 203.90844,  ndof = 357
+ Chi^2/nu = 0.571 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal213.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.97,   302.99)   22.36    114.66   [4.00]   0.22   -10.90
+             (    0.15,     0.45)    0.40     44.02   [0.00]   0.03     2.35
+ Chi^2 = 64.26072,  ndof = 145
+ Chi^2/nu = 0.443 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal214.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.94,   300.06)   24.65      3.79   [4.00]   0.95    32.55
+             (    0.07,     0.07)    0.09      0.70   [0.00]   0.13    88.09
+ Chi^2 = 8.04113,  ndof = 68
+ Chi^2/nu = 0.118 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal215.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.22,   299.95)   22.66    117.45   [4.00]   0.17   -39.82
+             (    0.28,     0.32)    0.40     46.26   [0.00]   0.02     2.04
+ Chi^2 = 33.46596,  ndof = 118
+ Chi^2/nu = 0.284 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal216.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  306.44,   298.89)   24.21      8.46   [4.00]   0.25   -78.78
+             (    0.14,     0.08)    0.08      1.27   [0.00]   0.03     2.18
+ Chi^2 = 22.92768,  ndof = 119
+ Chi^2/nu = 0.193 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal217.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.77,   298.54)   23.79      3.73   [4.00]   0.39   -38.00
+             (    0.06,     0.07)    0.03      0.36   [0.00]   0.04     2.92
+ Chi^2 = 40.27092,  ndof = 171
+ Chi^2/nu = 0.236 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal218.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.71,   300.15)   23.28     12.77   [4.00]   0.43    12.78
+             (    0.06,     0.09)    0.06      1.29   [0.00]   0.03     2.38
+ Chi^2 = 17.80550,  ndof = 179
+ Chi^2/nu = 0.099 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal219.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.28,   299.05)   22.53      2.47   [4.00]   0.64   -39.83
+             (    0.03,     0.04)    0.02      0.11   [0.00]   0.03     3.05
+ Chi^2 = 121.66560,  ndof = 491
+ Chi^2/nu = 0.248 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal220.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.30,   299.23)   22.60     19.42   [4.00]   0.76   -50.87
+             (    0.08,     0.07)    0.06      1.73   [0.00]   0.04     5.93
+ Chi^2 = 29.52647,  ndof = 283
+ Chi^2/nu = 0.104 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal221.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.42,   301.12)   23.65     50.86   [4.00]   0.17    80.43
+             (    0.34,     0.11)    0.19     11.97   [0.00]   0.02     1.24
+ Chi^2 = 49.62041,  ndof = 183
+ Chi^2/nu = 0.271 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal222.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.50,   300.52)   22.91     54.14   [4.00]   0.46   -82.00
+             (    0.23,     0.12)    0.15      9.99   [0.00]   0.03     2.23
+ Chi^2 = 61.96945,  ndof = 297
+ Chi^2/nu = 0.209 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal223.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.82,   300.06)   23.92     15.63   [4.00]   0.32   -71.13
+             (    0.13,     0.07)    0.10      2.35   [0.00]   0.03     2.24
+ Chi^2 = 13.85537,  ndof = 115
+ Chi^2/nu = 0.120 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal224.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.00,   299.78)   23.56     25.30   [4.00]   0.27   -20.71
+             (    0.06,     0.14)    0.08      2.92   [0.00]   0.02     1.21
+ Chi^2 = 22.77920,  ndof = 199
+ Chi^2/nu = 0.114 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal225.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.22,   300.78)   22.59      4.36   [4.00]   0.83    19.29
+             (    0.02,     0.02)    0.01      0.09   [0.00]   0.01     2.63
+ Chi^2 = 13.40006,  ndof = 374
+ Chi^2/nu = 0.036 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal226.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.24,   300.14)   24.15     10.06   [4.00]   0.22   -16.25
+             (    0.06,     0.13)    0.08      1.47   [0.00]   0.03     1.91
+ Chi^2 = 14.94291,  ndof = 108
+ Chi^2/nu = 0.138 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal227.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.79,   304.18)   23.78      7.06   [4.00]   0.13   -28.35
+             (    0.07,     0.12)    0.04      0.73   [0.00]   0.02     0.97
+ Chi^2 = 58.92794,  ndof = 216
+ Chi^2/nu = 0.273 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal228.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.88,   299.94)   21.47    126.81   [4.00]   0.88   -73.26
+             (    0.24,     0.21)    0.31     32.90   [0.00]   0.09    23.70
+ Chi^2 = 80.48524,  ndof = 271
+ Chi^2/nu = 0.297 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal229.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.09,   300.46)   23.79      3.00   [4.00]   0.34   -41.68
+             (    0.03,     0.03)    0.02      0.12   [0.00]   0.01     1.04
+ Chi^2 = 19.63980,  ndof = 266
+ Chi^2/nu = 0.074 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal230.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.93,   299.04)   23.37     19.47   [4.00]   0.71    -7.16
+             (    0.11,     0.14)    0.09      2.54   [0.00]   0.05     6.04
+ Chi^2 = 40.90773,  ndof = 253
+ Chi^2/nu = 0.162 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal231.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.39,   299.66)   22.25     74.03   [4.00]   0.50   -66.68
+             (    0.24,     0.14)    0.24     18.14   [0.00]   0.04     3.64
+ Chi^2 = 58.56184,  ndof = 201
+ Chi^2/nu = 0.291 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal232.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.83,   299.58)   18.86    742.31   [4.00]   0.32    64.90
+             (    0.43,     0.21)    0.26    152.65   [0.00]   0.02     1.78
+ Chi^2 = 271.18150,  ndof = 720
+ Chi^2/nu = 0.377 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal233.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.08,   300.00)   21.93     82.06   [4.00]   0.29     4.63
+             (    0.08,     0.19)    0.09      8.39   [0.00]   0.01     0.87
+ Chi^2 = 67.64746,  ndof = 446
+ Chi^2/nu = 0.152 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal234.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.12,   300.08)   23.01     23.48   [4.00]   0.34   -55.11
+             (    0.09,     0.06)    0.05      1.87   [0.00]   0.01     1.10
+ Chi^2 = 24.85021,  ndof = 250
+ Chi^2/nu = 0.099 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal235.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.19,   300.68)   22.07     35.88   [4.00]   0.56    26.16
+             (    0.08,     0.12)    0.11      4.56   [0.00]   0.04     3.44
+ Chi^2 = 39.16156,  ndof = 261
+ Chi^2/nu = 0.150 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal236.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.85,   297.81)   21.90     20.02   [4.00]   0.53    -0.46
+             (    0.06,     0.08)    0.02      0.89   [0.00]   0.01     1.14
+ Chi^2 = 120.40339,  ndof = 768
+ Chi^2/nu = 0.157 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal237.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.83,   298.17)   21.98     85.16   [4.00]   0.71   -72.08
+             (    0.23,     0.19)    0.23     19.78   [0.00]   0.05     5.99
+ Chi^2 = 137.15218,  ndof = 372
+ Chi^2/nu = 0.369 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal238.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.96,   297.95)   23.89      0.77   [4.00]   0.84   -32.18
+             (    0.05,     0.05)    0.03      0.06   [0.00]   0.11    21.67
+ Chi^2 = 30.49081,  ndof = 141
+ Chi^2/nu = 0.216 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal239.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.04,   298.82)   23.53     14.43   [4.00]   0.67   -27.14
+             (    0.08,     0.10)    0.07      1.67   [0.00]   0.05     5.22
+ Chi^2 = 20.35595,  ndof = 194
+ Chi^2/nu = 0.105 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal240.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.87,   300.35)   24.13      2.46   [4.00]   0.48    74.82
+             (    0.06,     0.05)    0.03      0.26   [0.00]   0.05     4.06
+ Chi^2 = 17.89327,  ndof = 131
+ Chi^2/nu = 0.137 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal241.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.36,   299.36)   23.09      7.03   [4.00]   0.74   -86.14
+             (    0.08,     0.06)    0.02      0.41   [0.00]   0.03     3.44
+ Chi^2 = 74.18125,  ndof = 396
+ Chi^2/nu = 0.187 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal242.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  294.20,   302.52)   20.28     71.10   [4.00]   0.45    68.62
+             (    0.12,     0.07)    0.04      4.26   [0.00]   0.01     0.87
+ Chi^2 = 419.53178,  ndof = 1381
+ Chi^2/nu = 0.304 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal243.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.39,   303.19)   23.68     31.65   [4.00]   0.13    21.59
+             (    0.08,     0.19)    0.13      5.50   [0.00]   0.01     0.94
+ Chi^2 = 24.55655,  ndof = 128
+ Chi^2/nu = 0.192 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal244.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.39,   300.00)   23.67      2.49   [4.00]   0.75   -45.78
+             (    0.04,     0.04)    0.02      0.14   [0.00]   0.04     5.44
+ Chi^2 = 38.78225,  ndof = 289
+ Chi^2/nu = 0.134 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal245.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.73,   297.92)   18.98    956.23   [4.00]   0.50    86.82
+             (    0.55,     0.26)    0.73    485.05   [0.00]   0.06     5.62
+ Chi^2 = 127.67244,  ndof = 253
+ Chi^2/nu = 0.505 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal246.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.09,   299.42)   22.02    258.12   [4.00]   0.17    81.94
+             (    0.56,     0.13)    0.43     95.76   [0.00]   0.02     1.59
+ Chi^2 = 71.91805,  ndof = 177
+ Chi^2/nu = 0.406 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal247.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.42,   299.06)   21.74     20.08   [4.00]   0.30    31.74
+             (    0.05,     0.08)    0.04      1.31   [0.00]   0.01     1.01
+ Chi^2 = 68.51364,  ndof = 425
+ Chi^2/nu = 0.161 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal248.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.23,   303.93)   23.22     42.91   [4.00]   0.10    30.46
+             (    0.13,     0.22)    0.11      6.77   [0.00]   0.01     0.68
+ Chi^2 = 39.22027,  ndof = 192
+ Chi^2/nu = 0.204 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal249.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.46,   296.94)   20.53    105.04   [4.00]   0.91    -7.12
+             (    0.16,     0.16)    0.14     13.85   [0.00]   0.05    16.04
+ Chi^2 = 147.55034,  ndof = 541
+ Chi^2/nu = 0.273 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal250.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  297.49,   298.15)   20.91    112.15   [4.00]   0.42    26.57
+             (    0.09,     0.17)    0.09     11.24   [0.00]   0.02     1.37
+ Chi^2 = 132.94457,  ndof = 657
+ Chi^2/nu = 0.202 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal251.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.16,   297.22)   24.02      3.05   [4.00]   0.37   -33.19
+             (    0.06,     0.08)    0.05      0.38   [0.00]   0.05     3.71
+ Chi^2 = 32.93472,  ndof = 123
+ Chi^2/nu = 0.268 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal252.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.24,   300.63)   23.53     13.37   [4.00]   0.39   -46.34
+             (    0.06,     0.06)    0.03      0.90   [0.00]   0.01     1.22
+ Chi^2 = 20.39752,  ndof = 244
+ Chi^2/nu = 0.084 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal253.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.17,   299.83)   23.12     *0.01*  [4.00]   0.52   -70.68
+             (    2.98,    11.66)   18.41     *0.53*  [0.00] 125.10 10102.60
+ Chi^2 = 88.81386,  ndof = 134
+ Chi^2/nu = 0.663 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal254.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.15,   295.39)   22.18     45.91   [4.00]   0.29    12.72
+             (    0.07,     0.16)    0.06      4.08   [0.00]   0.01     0.91
+ Chi^2 = 87.00974,  ndof = 509
+ Chi^2/nu = 0.171 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal255.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.73,   299.10)   23.19     21.36   [4.00]   0.27    76.98
+             (    0.21,     0.10)    0.11      3.67   [0.00]   0.02     1.95
+ Chi^2 = 67.28519,  ndof = 195
+ Chi^2/nu = 0.345 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal256.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.17,   301.49)   23.50     15.25   [4.00]   0.67   -26.09
+             (    0.10,     0.13)    0.08      2.02   [0.00]   0.05     5.95
+ Chi^2 = 35.71749,  ndof = 217
+ Chi^2/nu = 0.165 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal257.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.75,   296.65)   21.20     67.50   [4.00]   0.33    -7.45
+             (    0.07,     0.15)    0.05      4.70   [0.00]   0.01     0.83
+ Chi^2 = 154.95301,  ndof = 839
+ Chi^2/nu = 0.185 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal258.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.62,   299.76)   22.99      5.11   [4.00]   0.59   -74.20
+             (    0.11,     0.09)    0.04      0.53   [0.00]   0.05     4.96
+ Chi^2 = 134.59406,  ndof = 348
+ Chi^2/nu = 0.387 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal259.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.07,   300.49)   23.73     12.22   [4.00]   0.34    30.56
+             (    0.08,     0.12)    0.09      1.87   [0.00]   0.03     2.65
+ Chi^2 = 23.05057,  ndof = 130
+ Chi^2/nu = 0.177 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal260.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.01,   298.72)   21.25    148.88   [4.00]   0.66    38.55
+             (    0.15,     0.18)    0.25     33.48   [0.00]   0.05     5.48
+ Chi^2 = 60.11990,  ndof = 278
+ Chi^2/nu = 0.216 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal261.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.44,   298.63)   23.15     43.10   [4.00]   0.17    57.93
+             (    0.18,     0.11)    0.10      5.75   [0.00]   0.01     0.87
+ Chi^2 = 31.54766,  ndof = 222
+ Chi^2/nu = 0.142 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal262.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.25,   298.45)   23.32     28.10   [4.00]   0.44   -67.99
+             (    0.15,     0.09)    0.11      4.15   [0.00]   0.03     2.48
+ Chi^2 = 28.11387,  ndof = 180
+ Chi^2/nu = 0.156 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal263.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.81,   300.16)   24.53      3.44   [4.00]   0.39    74.03
+             (    0.06,     0.04)    0.03      0.30   [0.00]   0.04     2.51
+ Chi^2 = 8.98718,  ndof = 108
+ Chi^2/nu = 0.083 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal264.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.19,   298.05)   23.67     33.74   [4.00]  *0.09*   61.54
+             (    0.20,     0.11)    0.10      4.93   [0.00]  *0.01*    0.63
+ Chi^2 = 29.16249,  ndof = 179
+ Chi^2/nu = 0.163 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal265.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.51,   299.87)   23.18     17.37   [4.00]   0.50    62.32
+             (    0.11,     0.07)    0.11      2.55   [0.00]   0.04     3.87
+ Chi^2 = 16.74752,  ndof = 149
+ Chi^2/nu = 0.112 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal266.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.70,   299.96)   24.28     18.23   [4.00]   0.13    33.36
+             (    0.11,     0.16)    0.12      3.40   [0.00]   0.02     1.23
+ Chi^2 = 18.69084,  ndof = 97
+ Chi^2/nu = 0.193 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal267.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.88,   300.95)   24.45      3.17   [4.00]   0.59    14.31
+             (    0.06,     0.07)    0.03      0.32   [0.00]   0.05     5.20
+ Chi^2 = 16.36203,  ndof = 135
+ Chi^2/nu = 0.121 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal268.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.06,   300.50)   21.70     80.47   [4.00]   0.48    36.48
+             (    0.11,     0.14)    0.13     10.86   [0.00]   0.02     2.05
+ Chi^2 = 47.35654,  ndof = 303
+ Chi^2/nu = 0.156 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal269.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.12,   295.00)   21.99     62.80   [4.00]   0.40    19.21
+             (    0.09,     0.17)    0.09      7.10   [0.00]   0.02     1.60
+ Chi^2 = 76.25954,  ndof = 436
+ Chi^2/nu = 0.175 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal270.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.59,   300.30)   23.55      1.11   [4.00]   0.44   -60.46
+             (    0.04,     0.04)    0.03      0.13   [0.00]   0.08     5.31
+ Chi^2 = 24.82192,  ndof = 107
+ Chi^2/nu = 0.232 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal271.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.66,   300.25)   23.05     26.41   [4.00]   0.29    21.48
+             (    0.06,     0.12)    0.06      2.42   [0.00]   0.01     0.94
+ Chi^2 = 33.31511,  ndof = 252
+ Chi^2/nu = 0.132 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal272.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  308.88,   302.73)   19.93    152.81   [4.00]   0.34    69.61
+             (    0.16,     0.07)    0.06      9.72   [0.00]   0.01     0.67
+ Chi^2 = 271.42617,  ndof = 1312
+ Chi^2/nu = 0.207 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal273.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.96,   299.83)   22.30     27.47   [4.00]   0.66     1.28
+             (    0.10,     0.13)    0.05      2.23   [0.00]   0.03     3.27
+ Chi^2 = 88.97625,  ndof = 546
+ Chi^2/nu = 0.163 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal274.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.97,   298.63)   20.41     19.04   [4.00]   0.59    76.88
+             (    0.03,     0.02)    0.01      0.28   [0.00]   0.00     0.53
+ Chi^2 = 139.69173,  ndof = 1747
+ Chi^2/nu = 0.080 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal275.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.44,   298.86)   22.21     23.27   [4.00]   0.83   -46.67
+             (    0.12,     0.10)    0.05      2.12   [0.00]   0.04     7.86
+ Chi^2 = 238.45337,  ndof = 773
+ Chi^2/nu = 0.308 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal276.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  306.26,   297.83)   18.63    965.62   [4.00]   0.37    84.12
+             (    0.57,     0.25)    0.53    368.29   [0.00]   0.04     2.75
+ Chi^2 = 214.36206,  ndof = 410
+ Chi^2/nu = 0.523 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal277.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.41,   303.39)   20.18    144.39   [4.00]   0.92   -32.85
+             (    0.18,     0.17)    0.11     15.73   [0.00]   0.04    13.26
+ Chi^2 = 478.98278,  ndof = 1316
+ Chi^2/nu = 0.364 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal278.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.88,   295.58)   17.83   1529.92   [4.00]   0.50   -29.59
+             (    0.29,     0.44)    0.49    507.54   [0.00]   0.05     4.03
+ Chi^2 = 269.16154,  ndof = 576
+ Chi^2/nu = 0.467 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal279.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.62,   301.75)   22.67     11.26   [4.00]   0.48    23.43
+             (    0.05,     0.07)    0.03      0.69   [0.00]   0.02     1.73
+ Chi^2 = 37.29485,  ndof = 299
+ Chi^2/nu = 0.125 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal280.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.54,   298.52)   22.42     21.46   [4.00]   0.53    -2.97
+             (    0.06,     0.09)    0.06      1.79   [0.00]   0.02     2.28
+ Chi^2 = 29.45006,  ndof = 252
+ Chi^2/nu = 0.117 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal281.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.10,   300.44)   22.53     22.28   [4.00]   0.82   -61.78
+             (    0.12,     0.11)    0.07      2.50   [0.00]   0.04     8.43
+ Chi^2 = 89.43405,  ndof = 366
+ Chi^2/nu = 0.244 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal282.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  296.60,   295.22)   21.71     10.55   [4.00]   0.72   -23.23
+             (    0.09,     0.10)    0.02      0.61   [0.00]   0.02     2.84
+ Chi^2 = 959.85635,  ndof = 1326
+ Chi^2/nu = 0.724 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal283.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.30,   298.82)   20.35     38.20   [4.00]   0.87   -28.30
+             (    0.05,     0.06)    0.03      1.64   [0.00]   0.02     5.96
+ Chi^2 = 273.79218,  ndof = 1382
+ Chi^2/nu = 0.198 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal284.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.80,   296.42)   19.72     58.42   [4.00]   0.62    89.72
+             (    0.08,     0.05)    0.03      2.01   [0.00]   0.01     1.26
+ Chi^2 = 305.72368,  ndof = 1779
+ Chi^2/nu = 0.172 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal285.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  303.54,   308.44)   20.50    174.21   [4.00]   0.30    -7.60
+             (    0.19,     0.49)    0.17     32.78   [0.00]   0.02     1.59
+ Chi^2 = 762.77199,  ndof = 1167
+ Chi^2/nu = 0.654 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal286.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.63,   301.21)   20.93    101.85   [4.00]   0.90   -86.01
+             (    0.16,     0.15)    0.09      9.39   [0.00]   0.04    10.15
+ Chi^2 = 172.18471,  ndof = 742
+ Chi^2/nu = 0.232 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal287.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.05,   296.52)   18.42    270.00   [4.00]   0.77   -26.63
+             (    0.09,     0.12)    0.05     13.81   [0.00]   0.02     2.34
+ Chi^2 = 677.69161,  ndof = 2894
+ Chi^2/nu = 0.234 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal288.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  301.09,   302.43)   19.80    392.40   [4.00]   0.20   -34.47
+             (    0.16,     0.23)    0.09     33.72   [0.00]   0.01     0.37
+ Chi^2 = 230.73648,  ndof = 1210
+ Chi^2/nu = 0.191 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal289.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.53,   299.37)   21.84      7.86   [4.00]   0.73    57.44
+             (    0.03,     0.02)    0.01      0.14   [0.00]   0.01     1.21
+ Chi^2 = 86.99475,  ndof = 1085
+ Chi^2/nu = 0.080 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal290.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  304.10,   302.98)   21.86    144.57   [4.00]   0.13    74.82
+             (    0.30,     0.08)    0.08     14.18   [0.00]   0.00     0.35
+ Chi^2 = 129.58778,  ndof = 781
+ Chi^2/nu = 0.166 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal291.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.15,   298.21)   22.00     24.35   [4.00]   0.49    55.12
+             (    0.09,     0.06)    0.03      1.50   [0.00]   0.01     1.23
+ Chi^2 = 116.44451,  ndof = 571
+ Chi^2/nu = 0.204 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal292.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.82,   298.61)   21.82      5.24   [4.00]   0.81   -58.17
+             (    0.02,     0.02)    0.01      0.09   [0.00]   0.01     1.88
+ Chi^2 = 46.81369,  ndof = 788
+ Chi^2/nu = 0.059 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal293.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.93,   300.46)   21.62      8.47   [4.00]   0.71     1.31
+             (    0.02,     0.03)    0.01      0.14   [0.00]   0.01     1.01
+ Chi^2 = 65.27534,  ndof = 925
+ Chi^2/nu = 0.071 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal294.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.12,   300.23)   23.02      6.97   [4.00]   0.52    76.19
+             (    0.06,     0.05)    0.01      0.32   [0.00]   0.01     1.37
+ Chi^2 = 61.86793,  ndof = 402
+ Chi^2/nu = 0.154 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal295.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  302.84,   300.99)   22.43     46.37   [4.00]   0.20    38.91
+             (    0.12,     0.14)    0.07      4.58   [0.00]   0.01     0.82
+ Chi^2 = 54.09281,  ndof = 388
+ Chi^2/nu = 0.139 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal296.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  298.88,   299.44)   20.76     83.00   [4.00]   0.79   -63.16
+             (    0.11,     0.10)    0.08      7.05   [0.00]   0.03     4.71
+ Chi^2 = 103.16057,  ndof = 617
+ Chi^2/nu = 0.167 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal297.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.64,   299.05)   22.31     75.47   [4.00]   0.33    -1.86
+             (    0.13,     0.24)    0.18     15.00   [0.00]   0.02     1.58
+ Chi^2 = 90.93487,  ndof = 299
+ Chi^2/nu = 0.304 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal298.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  296.07,   298.39)   18.34   1798.53   [4.00]   0.17    87.15
+             (    0.73,     0.14)    0.25    348.50   [0.00]   0.01     0.61
+ Chi^2 = 417.03332,  ndof = 1217
+ Chi^2/nu = 0.343 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal299.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.31,   300.03)   22.21     69.78   [4.00]   0.26    24.95
+             (    0.11,     0.22)    0.08      7.19   [0.00]   0.01     1.00
+ Chi^2 = 100.89690,  ndof = 584
+ Chi^2/nu = 0.173 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal300.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  299.40,   299.32)   22.84      6.91   [4.00]   0.98   -76.81
+             (    0.06,     0.06)    0.01      0.30   [0.00]   0.02    30.82
+ Chi^2 = 85.65917,  ndof = 583
+ Chi^2/nu = 0.147 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /Users/poudel/jedisim/simdatabase/galaxies_original/f606w_gal301.fits[1:601,1:601] 
+Init. par. file : devauc.sh 
+Restart file    : galfit.01 
+Output image    : imgblock.fits 
+
+ devauc    : (  300.57,   300.66)   18.54    496.55   [4.00]   0.61    11.88
+             (    0.11,     0.18)    0.08     34.65   [0.00]   0.01     1.09
+ Chi^2 = 425.48807,  ndof = 2049
+ Chi^2/nu = 0.208 
+
+-----------------------------------------------------------------------------
